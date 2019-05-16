@@ -91,7 +91,7 @@ photos:
     - caption: View from Main Street
       photo: /img/uploads/street.jpg
 contact:
-  email: email@example.com
+  email: concettasmainstreetbistro@gmail.com
   heading: Get In Touch
   text: >-
     Call us anytime! If you have questions or comments, please share them with
