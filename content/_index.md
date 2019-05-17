@@ -81,10 +81,15 @@ events:
     Save $3 on our Famous Meatball sub!
 catering:
   heading: Catering
-  text: |-
+  text: >-
     We cater parties, weddings and banquets! Plan your event now!
 
-    ## [View Catering Menu](/img/uploads/concettas-catering.pdf)
+
+    Check out Catering Options
+    [Here](file:///C:/Users/Jeff/Documents/catering%20options.pdf)
+
+
+    ##
 photos:
   heading: Photo Gallery
   photo:
