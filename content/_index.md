@@ -86,7 +86,10 @@ catering:
 
 
     Check out Catering Options
-    [Here](file:///C:/Users/Jeff/Documents/catering%20options.pdf)
+    [Here](https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A193f8216-b808-46eb-bb98-7f05cac39411)
+
+
+    For Pricing please call or come in.
 
 
     ##
