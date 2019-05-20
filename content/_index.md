@@ -70,8 +70,7 @@ cuisine:
     meats and produce.
 
 
-    ## [View
-    Menu](https://concettas.rickymccallum.com/img/uploads/concettas-menu.pdf)
+    ## [View Menu](img/uploads/concettas-menu.pdf)
 events:
   heading: Events
   text: |-
