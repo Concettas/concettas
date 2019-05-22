@@ -70,7 +70,8 @@ cuisine:
     meats and produce.
 
 
-    ## [View Menu](img/uploads/concettas-menu.pdf)
+    ##  [View
+    Menu](file:///C:/Users/Jeff/Documents/ConcettasMenu2019%20update.pdf)
 events:
   heading: Events
   text: |-
