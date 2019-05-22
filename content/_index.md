@@ -65,12 +65,16 @@ specials:
     Mandarin Orange Dressing, Served with Chicken, Shrimp, or Salmon
 cuisine:
   heading: Menu
-  text: >-
+  text: >+
     We pride ourselves in offering the freshest menu using the finest available
     meats and produce.
 
 
-    ##
+
+
+    [View
+    Menu](https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A9cd14e5c-bebf-485a-825e-831bb6bfd3ed)
+
 events:
   heading: Events
   text: |-
