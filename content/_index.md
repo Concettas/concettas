@@ -89,9 +89,6 @@ catering:
 
 
     For Pricing please call or come in.
-
-
-    ##
 photos:
   heading: Photo Gallery
   photo:
