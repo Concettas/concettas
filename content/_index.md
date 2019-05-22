@@ -81,7 +81,7 @@ events:
 catering:
   heading: Catering
   text: >-
-    We cater parties, weddings and banquets! Plan your event now!
+    We cater parties, weddings and banquets. Plan your event now!
 
 
     Check out Catering Options
