@@ -1,6 +1,9 @@
 backend:
   name: git-gateway
 
+site_url: https://concettasmainstreet.com
+display_url: https://concettasmainstreet.com
+
 media_folder: "static/img/uploads" # Where media files will be stored
 public_folder: "/img/uploads" # Start of the src attribute for uploaded media
 
