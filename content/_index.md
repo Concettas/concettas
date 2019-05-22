@@ -71,7 +71,7 @@ cuisine:
 
 
     [View
-    Menu](https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:9cd14e5c-bebf-485a-825e-831bb6bfd3ed)
+    Menu](https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A5fb108e5-243e-4049-9bb8-591228815cbe)
 events:
   heading: Events
   text: |-
