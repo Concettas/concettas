@@ -83,7 +83,37 @@ cuisine:
     Menu](https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A5fb108e5-243e-4049-9bb8-591228815cbe)
 events:
   heading: Events
-  text: "> # Check here often, we always have something exciting happening!\n>\n> **Home Town Chili Cook-Off & Custom Car Show** , Saturday June 15 click [HERE](https://www.mountairymainstreet.org/chili-cook-off) for more info\r\n>\n> **Oktoberfest and Harvest Fest Corn-hole Competition** Saturday September 28 click [HERE](https://www.mount-airy-oktoberfest.org) for more info\r\n>\n> **Downtown Holiday Preview**, Friday November 15 click [HERE](https://www.mountairymainstreet.org/annual-events) for more info\r\n>\n> **Small Business Saturday**, Saturday November 30 Click [HERE](https://www.mountairymainstreet.org/annual-events) for more info\r\n>\n> **A Main Street Christmas**,December 7 click [HERE](https://www.mountairymainstreet.org/annual-events) for more info\r\n>\n>"
+  text: >-
+    > # Check here often, we always have something exciting happening!
+
+    >
+
+    > 2019
+
+    >
+
+    > **Home Town Chili Cook-Off & Custom Car Show** , Saturday June 15 click
+    [HERE](https://www.mountairymainstreet.org/chili-cook-off) for more info
+
+    >
+
+    > **Oktoberfest and Harvest Fest Corn-hole Competition** Saturday September
+    28 click [HERE](https://www.mount-airy-oktoberfest.org) for more info
+
+    >
+
+    > **Downtown Holiday Preview**, Friday November 15 click
+    [HERE](https://www.mountairymainstreet.org/annual-events) for more info
+
+    >
+
+    > **Small Business Saturday**, Saturday November 30 Click
+    [HERE](https://www.mountairymainstreet.org/annual-events) for more info
+
+    >
+
+    > **A Main Street Christmas**,December 7 click
+    [HERE](https://www.mountairymainstreet.org/annual-events) for more info
 catering:
   heading: Catering
   text: >-
