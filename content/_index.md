@@ -15,11 +15,11 @@ about:
     wed: '7:30a - 4p'
   phone: 301-829-7571
   text: >-
-    Welcome to _**Concetta's Main Street Bistro!**_  Proudly serving Mt. Airy
+    Welcome to **_Concetta's Main Street Bistro!_**  Proudly serving Mt. Airy
     since **2008**, we are located in historic downtown in the old firehouse.  
     Open _7 days a week_ at 7:30 am, we feature a complete all day breakfast
     menu.  Recently voted Mt. Airy's #1 restaurant, Concetta's is famous for our
-    amazing one of kind sandwiches, subs, wraps, salad, and homemade soups.  We
+    amazing one of kind sandwiches, subs, wraps, salads, and homemade soups.  We
     always welcome customer creativity as we want your experience to be the
     best.  We cater under the same philosophy--customized for your particular
     event, large or small.  **Welcome again to Concetta's!**  We hope to see you
@@ -74,10 +74,7 @@ cuisine:
     Menu](https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A5fb108e5-243e-4049-9bb8-591228815cbe)
 events:
   heading: Events
-  text: |-
-    > Check here often, we always have something exciting happening!
-
-     
+  text: "> Check here often, we always have something exciting happening!\n>\n> Home Town Chili Cook-Off & Custom Car Show , Saturday June 15 click [HERE](https://www.mountairymainstreet.org/chili-cook-off) for more info\r\n>\n> Oktoberfest and Harvest Fest Corn-hole Competition Saturday September 28 click [HERE](https://www.mount-airy-oktoberfest.org) for more info\r\n>\n> Downtown Holiday Preview, Friday November 15 click [HERE](https://www.mountairymainstreet.org/annual-events) for more info\r\n>\n> Small Business Saturday, Saturday November 30 Click [HERE](https://www.mountairymainstreet.org/annual-events) for more info\r\n>\n> A Main Street Christmas,December 7 click [HERE](https://www.mountairymainstreet.org/annual-events) for more info\r\n>\n>"
 catering:
   heading: Catering
   text: >-
