@@ -65,6 +65,8 @@ specials:
     Mandarin Orange Dressing, Served with Chicken, Shrimp, or Salmon
 
 
+    ## **SUMMER DAILY SPECIALS**
+    [**HERE**](https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A52e50190-8fc4-4181-9513-df743a566b31)
 
 
     ## Check out our Seasonal Summer Menu
