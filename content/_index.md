@@ -63,6 +63,15 @@ specials:
 
     Spinach, Romaine, Wonton Strips, Mandarin Oranges, Almonds, Red Onion,
     Mandarin Orange Dressing, Served with Chicken, Shrimp, or Salmon
+
+
+
+
+    ## Check out our Seasonal Summer Menu
+    [**HERE**](https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3Aa5c715b6-85f5-4889-a303-97acb079fc06)
+
+
+    Beginning in June of 2019
 cuisine:
   heading: Menu
   text: >-
