@@ -136,6 +136,8 @@ photos:
       photo: /img/uploads/20190523_112150.jpg
     - caption: Nova Lox Platter
       photo: /img/uploads/phone-photos-8-19-16-170.jpg
+    - caption: inside the store
+      photo: /img/uploads/img_0697.jpg
 contact:
   email: concettasmainstreetbistro@gmail.com
   heading: Get In Touch
