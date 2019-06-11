@@ -12,7 +12,7 @@ about:
     sun: '7:30a - 3p'
     thu: '7:30a - 6p'
     tue: '7:30a - 4p'
-    wed: '7:30a - 4p'
+    wed: '7:30a - 6p'
   phone: 301-829-7571
   text: >-
     Welcome to **_Concetta's Main Street Bistro!_**  Proudly serving Mt. Airy
@@ -26,54 +26,7 @@ about:
     soon!
 specials:
   heading: Daily and Seasonal Specials
-  text: >-
-    > Check here often, we always have something exciting happening!
-
-
-    ## Spring Daily Specials
-
-
-    Take $2.00 off our featured spring item of the day
-
-
-    **Monday - Toasted Italian**\
-
-    Spicy Genoa, Capicola, Sopressata, Provolone, Pesto, Lettuce, Tomato, Onion,
-    Oil and Vinegar, Served on a Sub Roll, Toasted to Perfection.
-
-
-    **Tuesday - Concetta's Cuban**\
-
-    Deli Ham, Smoked Ham, Pickle, Swiss, Pepper Jack, Cuban Mustard, Sliced
-    Italian, Served Panini Style
-
-
-    **Wednesday - Bacon Guacamole Grilled Cheese**\
-
-    Bacon, Guacamole, Cheddar Cheese, Tomato, Served on your choice of bread
-
-
-    **Thursday - Chicken Hummus Wrap**\
-
-    Grilled Chicken, Hummus, Spinach, Tomato, Onion, Cucumber, Served on Spinach
-    or Plain Wrap
-
-
-    **Friday - Asian Salad**\
-
-    Spinach, Romaine, Wonton Strips, Mandarin Oranges, Almonds, Red Onion,
-    Mandarin Orange Dressing, Served with Chicken, Shrimp, or Salmon
-
-
-    ## **SUMMER DAILY SPECIALS**
-    [**HERE**](https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A52e50190-8fc4-4181-9513-df743a566b31)
-
-
-    ## Check out our Seasonal Summer Menu
-    [**HERE**](https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3Aa5c715b6-85f5-4889-a303-97acb079fc06)
-
-
-    Beginning in June of 2019
+  text: "> Check here often, we always have something exciting happening!\n\n## **SUMMER DAILY SPECIALS** [**HERE**](https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A52e50190-8fc4-4181-9513-df743a566b31)\n\nTake $2.00 off our featured Summer Item of the day\r\n\nMonday – Parmesan Peppercorn Chicken Wrap\r\n\nTuesday- Grilled Shrimp Asian Wrap\r\n\nWednesday- Caprese Grilled Cheese\r\n\nThursday- BLT Avocado Salad\r\n\nFriday- Chicken Salad Club\r\n\n\n\n## Check out our Seasonal Summer Menu [**HERE**](https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3Aa5c715b6-85f5-4889-a303-97acb079fc06)\n\nBeginning in June of 2019"
 cuisine:
   heading: Menu
   text: >-
