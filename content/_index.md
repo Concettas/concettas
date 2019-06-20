@@ -52,6 +52,12 @@ events:
 
     >
 
+    >  **Hot Summer Days & Nights** . Saturday, July 20, 2019  (10:00 am - 9:00
+    pm) click [HERE](https://www.mountairymainstreet.org/annual-events) for more
+    info
+
+    >
+
     > **Oktoberfest and Harvest Fest Corn-hole Competition** Saturday September
     28 click [HERE](https://www.mount-airy-oktoberfest.org) for more info
 
