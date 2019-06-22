@@ -106,7 +106,7 @@ contact:
   email: concettasmainstreetbistro@gmail.com
   heading: Get In Touch
   text: >-
-    **Come be apart of our team! Click** [**Here**
+    **Come be a part of our team! Click** [**Here**
     ](https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A5532b0d6-c904-4048-b722-2f21e07c5ef4)
     **for an Application** 
 
