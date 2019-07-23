@@ -56,7 +56,7 @@ specials:
     [**HERE**](https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3Aa5c715b6-85f5-4889-a303-97acb079fc06)
 
 
-    ## **Check out our Fall Menu**
+    ## **Check out our Seasonal Fall Menu**
     [HERE](https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3Abd5bba6f-2fd1-471e-898e-f47d0ab6cc1a)
 
 
