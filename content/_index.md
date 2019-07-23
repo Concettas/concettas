@@ -90,8 +90,8 @@ events:
 
     >
 
-    >  **Hot Summer Days & Nights** . Saturday, July 20, 2019  (10:00 am - 9:00
-    pm) click [HERE](https://www.mountairymainstreet.org/annual-events) for more
+    >  **Hot Summer Days & Nights,** Saturday August 17th (10:00 am - 9:00 pm)
+    click [HERE](https://www.mountairymainstreet.org/annual-events) for more
     info
 
     >
