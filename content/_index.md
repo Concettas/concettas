@@ -6,13 +6,13 @@ about:
     line2: 'Mount Airy, MD 21771'
   heading: 'About Us '
   hours:
-    fri: '7:30a - 4p'
-    mon: '7:30a - 4p'
-    sat: '7:30a - 4p'
-    sun: '7:30a - 3p'
-    thu: '7:30a - 6p'
-    tue: '7:30a - 4p'
-    wed: '7:30a - 6p'
+    fri: '7:30am- 3:00pm'
+    mon: '7:30am - 3:00pm'
+    sat: '7:30am -4:00pm'
+    sun: '7:30am - 3:00pm'
+    thu: '7:30am- 3:00pm'
+    tue: '7:30am - 3:00pm'
+    wed: '7:30a - 3:00pm'
   phone: 301-829-7571
   text: >-
     Welcome to **_Concetta's Main Street Bistro!_**  Proudly serving Mt. Airy
