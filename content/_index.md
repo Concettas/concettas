@@ -8,7 +8,7 @@ about:
   hours:
     fri: '7:30am- 3:00pm'
     mon: '7:30am - 3:00pm'
-    sat: '7:30am -4:00pm'
+    sat: '7:30am -3:00pm'
     sun: '7:30am - 3:00pm'
     thu: '7:30am- 3:00pm'
     tue: '7:30am - 3:00pm'
