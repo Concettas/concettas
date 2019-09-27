@@ -26,45 +26,16 @@ about:
     soon!
 specials:
   heading: Daily and Seasonal Specials
-  text: >-
+  text: |-
     > Check here often, we always have something exciting happening!
 
+    ## ****
 
-    ## **SUMMER DAILY SPECIALS**
-    [**HERE**](https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A52e50190-8fc4-4181-9513-df743a566b31)
+    ## 
 
+    ## ****
 
-    Take $2.00 off our featured Summer Item of the day
-
-
-    Monday – Parmesan Peppercorn Chicken Wrap
-
-
-    Tuesday- Grilled Shrimp Asian Wrap
-
-
-    Wednesday- Caprese Grilled Cheese
-
-
-    Thursday- BLT Avocado Salad
-
-
-    Friday- Chicken Salad Club
-
-
-    ## Check out our Seasonal Summer Menu
-    [**HERE**](https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3Aa5c715b6-85f5-4889-a303-97acb079fc06)
-
-
-    ## **Check out our Seasonal Fall Menu**
-    [HERE](https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3Abd5bba6f-2fd1-471e-898e-f47d0ab6cc1a)
-
-
-    _Beginning September of 2019_
-
-
-    ## FALL DAILY SPECIALS
-    [HERE](https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A0f365c70-bf57-4a93-9469-cb1a60811c29)
+    __
 cuisine:
   heading: Menu
   text: >-
