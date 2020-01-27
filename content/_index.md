@@ -27,20 +27,26 @@ about:
 specials:
   heading: Daily and Seasonal Specials
   text: |-
-    > Check here often, we always have something exciting happening!
+    LUNCH SPECIALS MONDAY-FRIDAY. 11AM-2:30PM
 
-    ## ****
+    CHECK OUR FACEBOOK PAGE OR CALL 301-829-7571
 
-    ## 
-
-    ## ****
+    ## \*\*\*\*
 
     __
 cuisine:
   heading: Menu
   text: >-
-    We pride ourselves in offering the freshest menu using the finest available
-    meats and produce.
+    COMING SOON TO CONCETTA'S   ALONG WITH OUR EXTENDED SPRING HOURS, WE WILL BE
+    UPDATING OUR MENU.  YOU, CONCETTA'S FAITHFUL WILL HAVE A CHANCE TO HELP US
+    DECIDE HOW AND WHAT WE MAY DO.  YOU WILL HAVE THE OPPORTUNITY TO VOTE FOR
+    SOME OF YOUR FAVORITES THAT MAY BE ON THE "CHOPPING BLOCK"  
+
+
+    STAY TUNED BECAUSE FEBRUARY IS THE TO TELL WHAT YOU LOVE OR WOULD LIKE TO
+    SEE FROM CONCETTA'S IN THE FUTURE.
+
+
 
 
     ## [View
@@ -52,38 +58,33 @@ events:
 
     >
 
-    > 2019
+    > 2020
 
     >
 
-    > **Home Town Chili Cook-Off & Custom Car Show** , Saturday June 15 click
-    [HERE](https://www.mountairymainstreet.org/chili-cook-off) for more info
+    > **FEBRUARY 14th** is not only *Valentine's* *Day*, It's time for our
+    annual *reservations only*  **DINNER FOR TWO!** Coinciding with Downtown Mt.
+    Airy's Chocolate Crawl.
 
     >
 
-    >  **Hot Summer Days & Nights,** Saturday August 17th (10:00 am - 9:00 pm)
-    click [HERE](https://www.mountairymainstreet.org/annual-events) for more
-    info
+    > Menu Posted by February 7th as we want to provide the best freshest meal
+    we can.  BYOB
 
     >
 
-    > **Oktoberfest and Harvest Fest Corn-hole Competition** Saturday September
-    28 click [HERE](https://www.mount-airy-oktoberfest.org) for more info
+    > **MARCH 13th Through MARCH 17th** our famous cooked in house corned beef
+    cabbage and potatoes dinner will be available.  
 
     >
 
-    > **Downtown Holiday Preview**, Friday November 15 click
-    [HERE](https://www.mountairymainstreet.org/annual-events) for more info
+    > **On ST. PATRICK'S DAY**, Come in and dine with us! **BYOB** 
+    *RESERVATIONS REQUIRED*. 
 
     >
 
-    > **Small Business Saturday**, Saturday November 30 Click
-    [HERE](https://www.mountairymainstreet.org/annual-events) for more info
-
-    >
-
-    > **A Main Street Christmas**,December 7 click
-    [HERE](https://www.mountairymainstreet.org/annual-events) for more info
+    > **APRIL 20th - 25th**, Look forward to the annual ***Mount Airy Restaurant
+    Week***!  Menu to be posted at a later date!
 catering:
   heading: Catering
   text: >-
@@ -91,17 +92,17 @@ catering:
 
 
     **Check out Catering Options**
-    [**Here**](https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A398dbed5-aab2-403b-ba43-cfaf3a34fc4a)\*\*\*\*
+    **[Here](https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A398dbed5-aab2-403b-ba43-cfaf3a34fc4a)**\*\*\*\*
 
 
     **View Catering Photo Gallery**
-    [**Here**](https://www.facebook.com/pg/Concettas-Mainstreet-Bistro-108116492564016/photos/?tab=album&album_id=2803219223053716)\*\*\*\*
+    **[Here](https://www.facebook.com/pg/Concettas-Mainstreet-Bistro-108116492564016/photos/?tab=album&album_id=2803219223053716)**\*\*\*\*
 
 
     For Pricing please call or come in.
 
 
-    _**\*Pricing subject to market changes\***_
+    ***\*Pricing subject to market changes\****
 photos:
   heading: Photo Gallery
   photo:
