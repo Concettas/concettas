@@ -102,7 +102,7 @@ catering:
     For Pricing please call or come in.
 
 
-    ***\*Pricing subject to market changes\****
+    **\*\*Pricing subject to market changes\*\***
 photos:
   heading: Photo Gallery
   photo:
