@@ -1,32 +1,31 @@
 ---
 about:
   address:
-    gmaps: 'https://goo.gl/maps/Md1pfGAk91o'
+    gmaps: https://goo.gl/maps/Md1pfGAk91o
     line1: 231 South Main Street
-    line2: 'Mount Airy, MD 21771'
-  heading: 'About Us '
+    line2: Mount Airy, MD 21771
+  heading: "About Us "
   hours:
-    fri: '8:00am- 3:00pm'
-    mon: '8:00am - 2:00pm'
-    sat: '8:00am -3:00pm'
-    sun: '8am - 3:00pm'
-    thu: '8:00am- 2:00pm'
+    fri: 11:00am- 5:00pm
+    mon: 11:00am -4:00pm
+    sat: 11:00am -5:00pm
+    sun: 11am - 3:00pm
+    thu: 11:00am- 5:00pm
     tue: CLOSED
-    wed: '8:00am - 2:00pm'
+    wed: 11:00am - 4:00pm
   phone: 301-829-7571
-  text: >-
-    Welcome to ***Concetta's Main Street Bistro!***  Proudly serving Mt. Airy
-    since **2008**, we are located in historic downtown in the old firehouse. 
-    We feature a complete all day breakfast menu.  Recently voted Mt. Airy's #1
-    restaurant, Concetta's is famous for our amazing one of kind sandwiches,
-    subs, wraps, salads, and homemade soups.  We always welcome customer
-    creativity as we want your experience to be the best.  We cater under the
-    same philosophy--customized for your particular event, large or small. 
-    **Welcome again to Concetta's!**  We hope to see you soon!
+  text: "Welcome to ***Concetta's Main Street Bistro!***  Proudly serving Mt. Airy
+    since **2008**, we are located in historic downtown in the old
+    firehouse.  We feature a complete all day breakfast menu.  Recently voted
+    Mt. Airy's #1 restaurant, Concetta's is famous for our amazing one of kind
+    sandwiches, subs, wraps, salads, and homemade soups.  We always welcome
+    customer creativity as we want your experience to be the best.  We cater
+    under the same philosophy--customized for your particular event, large or
+    small.  **Welcome again to Concetta's!**  We hope to see you soon!"
 specials:
   heading: Daily and Seasonal Specials
   text: |-
-
+    
 
     CHECK OUR FACEBOOK PAGE OR CALL 301-829-7571
 
@@ -39,17 +38,13 @@ cuisine:
     PLEASE NOTE:  DUE TO THE ON GOING COVID-19 OUTBREAK, CONCETTA'S WILL BE
     SERVING TAKE OUT AND CURBSIDE SERVICE ONLY!  PLEASE IF PICKING UP, MAINTAIN
     SOCIAL DISTANCING.  HOWEVER, YOU MAY BROWSE OUR SHELVES AND COOLERS FOR
-    DRINKS, MEATBALLS, DESSERTS, ETC.
+    DRINKS, MEATBALLS, DESSERTS, ETC.  WE ARE NOW ACCEPTING ONLINE ORDERING VIA 
 
 
-    WE LOOK FORWARD TO THE DAY SOON WHEN WE WILL BE ABLE TO SERVE YOU FULLY HERE
-    AT CONCETTA'S.  UNTIL THEN, THANK YOU SO MUCH FOR YOUR CONTINUED SUPPORT IN
-    THIS DIFFICULT TIME.  PLEASE REMEMBER ALL THE SMALL RESTAURANTS AND
-    BUSINESSES DEEMED ESSENTIAL. WE ARE ALL HERE FOR YOU!
+    WE LOOK FORWARD TO THE DAY SOON WHEN WE WILL BE ABLE TO SERVE YOU FULLY HERE AT CONCETTA'S.  UNTIL THEN, THANK YOU SO MUCH FOR YOUR CONTINUED SUPPORT IN THIS DIFFICULT TIME.  PLEASE REMEMBER ALL THE SMALL RESTAURANTS AND BUSINESSES DEEMED ESSENTIAL. WE ARE ALL HERE FOR YOU!
 
 
-    ## [View
-    Menu](https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A5fb108e5-243e-4049-9bb8-591228815cbe)
+    ## [View Menu](https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A5fb108e5-243e-4049-9bb8-591228815cbe)
 events:
   heading: Events
   text: |-
@@ -62,12 +57,10 @@ catering:
     We cater parties, weddings and banquets. Plan your event now!
 
 
-    **Check out Catering Options**
-    **[Here](https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A398dbed5-aab2-403b-ba43-cfaf3a34fc4a)**\*\*\*\*
+    **Check out Catering Options** **[Here](https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A398dbed5-aab2-403b-ba43-cfaf3a34fc4a)**\*\*\*\*
 
 
-    **View Catering Photo Gallery**
-    **[Here](https://www.facebook.com/pg/Concettas-Mainstreet-Bistro-108116492564016/photos/?tab=album&album_id=2803219223053716)**\*\*\*\*
+    **View Catering Photo Gallery** **[Here](https://www.facebook.com/pg/Concettas-Mainstreet-Bistro-108116492564016/photos/?tab=album&album_id=2803219223053716)**\*\*\*\*
 
 
     For Pricing please call or come in.
@@ -94,6 +87,5 @@ contact:
 
 
 
-    Call us anytime! If you have questions or comments, please share them with
-    us below.
+    Call us anytime! If you have questions or comments, please share them with us below.
 ---
