@@ -24,12 +24,15 @@ about:
     small.  **Welcome again to Concetta's!**  We hope to see you soon!"
 specials:
   heading: Daily and Seasonal Specials
-  text: |-
-    
-
+  text: >-
     CHECK OUR FACEBOOK PAGE OR CALL 301-829-7571
 
+
+    # **[ORDER ONLINE HERE!](https://www.clover.com/online-ordering/concettas-mainstreet-bistro-mount-airy)**
+
+
     ## \*\*\*\*
+
 
     __
 cuisine:
