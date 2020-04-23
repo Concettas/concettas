@@ -9,19 +9,19 @@ about:
     fri: 11:00am- 5:00pm
     mon: 11:00am -4:00pm
     sat: 11:00am -5:00pm
-    sun: 11am - 3:00pm
+    sun: 11am - 4:00pm
     thu: 11:00am- 5:00pm
     tue: CLOSED
     wed: 11:00am - 4:00pm
   phone: 301-829-7571
-  text: "Welcome to ***Concetta's Main Street Bistro!***  Proudly serving Mt. Airy
+  text: Welcome to ***Concetta's Main Street Bistro!***  Proudly serving Mt. Airy
     since **2008**, we are located in historic downtown in the old
-    firehouse.  We feature a complete all day breakfast menu.  Recently voted
-    Mt. Airy's #1 restaurant, Concetta's is famous for our amazing one of kind
-    sandwiches, subs, wraps, salads, and homemade soups.  We always welcome
-    customer creativity as we want your experience to be the best.  We cater
-    under the same philosophy--customized for your particular event, large or
-    small.  **Welcome again to Concetta's!**  We hope to see you soon!"
+    firehouse.  We feature a complete all day breakfast menu.  , Concetta's is
+    famous for our amazing one of kind sandwiches, subs, wraps, salads, and
+    homemade soups.  We always welcome customer creativity as we want your
+    experience to be the best.  We cater under the same philosophy--customized
+    for your particular event, large or small.  **Welcome again to Concetta's!**
+    Please check us out today!
 specials:
   heading: Daily and Seasonal Specials
   text: >-
