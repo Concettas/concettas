@@ -70,7 +70,7 @@ catering:
     **View Catering Photo Gallery** **[Here](https://www.facebook.com/pg/Concettas-Mainstreet-Bistro-108116492564016/photos/?tab=album&album_id=2803219223053716)**\*\*\*\*
 
 
-    For Pricing please call or come in.
+    For Pricing please call or call for an appointment. 
 
 
     **\*\*Pricing subject to market changes\*\***
