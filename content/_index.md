@@ -6,11 +6,11 @@ about:
     line2: Mount Airy, MD 21771
   heading: "About Us "
   hours:
-    fri: 11:00am- 5:00pm
-    mon: 11:00am -4:00pm
-    sat: 11:00am -5:00pm
-    sun: 11am - 4:00pm
-    thu: 11:00am- 5:00pm
+    fri: 11:00am- 4:00pm
+    mon: CLOSED
+    sat: 8:00am -4:00pm
+    sun: 8am - 2:00pm
+    thu: 11:00am- 4:00pm
     tue: CLOSED
     wed: 11:00am - 4:00pm
   phone: 301-829-7571
@@ -24,25 +24,17 @@ about:
     Please check us out today!
 specials:
   heading: Daily and Seasonal Specials
-  text: >-
+  text: |-
     CHECK OUR FACEBOOK PAGE OR CALL 301-829-7571
 
-
-    # **[ORDER ONLINE HERE!](https://www.clover.com/online-ordering/concettas-mainstreet-bistro-mount-airy)**
-
-
     ## \*\*\*\*
-
 
     __
 cuisine:
   heading: Menu
   text: >-
-    # **[ORDER ONLINE
-    HERE!](https://www.clover.com/online-ordering/concettas-mainstreet-bistro-mount-airy)**
-
-
-    PLEASE NOTE:  DUE TO THE ONGOING COVID-19 OUTBREAK, CONCETTA'S WILL BE SERVING TAKE OUT AND CURBSIDE SERVICE ONLY! ORDER ONLINE OR CALL-IN. 
+    PLEASE NOTE:  DUE TO THE ONGOING COVID-19 OUTBREAK, CONCETTA'S WILL BE
+    SERVING TAKE OUT , CURBSIDE SERVICE AND LIMITED INDOOR / OUTDOOR DINING! 
 
 
     PLEASE, IF PICKING UP, MAINTAIN SOCIAL DISTANCING.  HOWEVER, YOU MAY BROWSE OUR SHELVES AND COOLERS FOR DRINKS, MEATBALLS, DESSERTS, ETC.   
