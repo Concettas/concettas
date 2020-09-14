@@ -14,14 +14,15 @@ about:
     tue: CLOSED
     wed: CLOSED
   phone: 301-829-7571
-  text: Welcome to ***Concetta's Main Street Bistro!***  Proudly serving Mt. Airy
-    since **2008**, we are located in historic downtown in the old
-    firehouse.  We feature a complete all day breakfast menu.  , Concetta's is
-    famous for our amazing one of kind sandwiches, subs, wraps, salads, and
-    homemade soups.  We always welcome customer creativity as we want your
-    experience to be the best.  We cater under the same philosophy--customized
-    for your particular event, large or small.  **Welcome again to Concetta's!**
-    Please check us out today!
+  text: >-
+    
+
+    ***CLOSED DUE TO FIRE... WE WILL BE BACK!*** 
+
+
+
+
+    Welcome to ***Concetta's Main Street Bistro!***  Proudly serving Mt. Airy since **2008**, we are located in historic downtown in the old firehouse.  We feature a complete all day breakfast menu.  , Concetta's is famous for our amazing one of kind sandwiches, subs, wraps, salads, and homemade soups.  We always welcome customer creativity as we want your experience to be the best.  We cater under the same philosophy--customized for your particular event, large or small.  **Welcome again to Concetta's!** Please check us out today!
 specials:
   heading: Daily and Seasonal Specials
   text: |-
@@ -35,7 +36,7 @@ cuisine:
   text: "PLEASE NOTE:  DUE TO A FIRE SUSTAINED AT CONCETTA'S ON AUGUST 18TH, ***WE
     WILL BE CLOSED UNTIL FURTHER NOTICE***.  OUR INTENTION IS TO COME BACK
     STRONGER THAN EVER WITH A NEW AND IMPROVED INTERIOR REMODELING WITH YOUR (
-    AND OURS) SAFETY AND CLEANLINESS OUR UTMOST PRIORITY.  LOOK FOR MORE UPDATED
+    AND OURS) SAFETY AND CLEANLINESS OUR UTMOST PRIORITY.  LOOK FOR MORE UPDATES
     ON OUR FACEBOOK PAGE AND WE HOPE TO RE-OPEN ASAP!  NO WORRIES, OUR MENU WILL
     BE BACK AS WELL, WITH SOME ADDITIONS!"
 events:
