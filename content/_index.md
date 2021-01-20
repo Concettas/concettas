@@ -6,23 +6,19 @@ about:
     line2: Mount Airy, MD 21771
   heading: "About Us "
   hours:
-    fri: CLOSED
+    fri: 10 - 4
     mon: CLOSED
-    sat: CLOSED
-    sun: CLOSED
-    thu: CLOSED
+    sat: 8 - 4
+    sun: 8 - 4
+    thu: 10 - 4
     tue: CLOSED
-    wed: CLOSED
+    wed: 10 - 4
   phone: 301-829-7571
   text: >-
-    
-
-    ***CLOSED DUE TO FIRE... WE WILL BE BACK!*** 
+    **Our Re-opening is coming SOON!**
 
 
-
-
-    Welcome to ***Concetta's Main Street Bistro!***  Proudly serving Mt. Airy since **2008**, we are located in historic downtown in the old firehouse.  We feature a complete all day breakfast menu.  , Concetta's is famous for our amazing one of kind sandwiches, subs, wraps, salads, and homemade soups.  We always welcome customer creativity as we want your experience to be the best.  We cater under the same philosophy--customized for your particular event, large or small.  **Welcome again to Concetta's!** Please check us out today!
+    Welcome to ***Concetta's Main Street Bistro!***  Proudly serving Mt. Airy since **2008**, we are located in historic downtown in the old firehouse.  We feature a complete all day breakfast menu.  Concetta's is famous for our amazing one of kind sandwiches, subs, wraps, salads, and homemade soups.  Once open, we will be focusing on Carry out and Curb side service with no indoor dining at present.  We look forward to Spring when we can set up our amazing patio area for your dining enjoyment.
 specials:
   heading: Daily and Seasonal Specials
   text: |-
@@ -33,12 +29,9 @@ specials:
     __
 cuisine:
   heading: Menu
-  text: "PLEASE NOTE:  DUE TO A FIRE SUSTAINED AT CONCETTA'S ON AUGUST 18TH, ***WE
-    WILL BE CLOSED UNTIL FURTHER NOTICE***.  OUR INTENTION IS TO COME BACK
-    STRONGER THAN EVER WITH A NEW AND IMPROVED INTERIOR REMODELING WITH YOUR (
-    AND OURS) SAFETY AND CLEANLINESS OUR UTMOST PRIORITY.  LOOK FOR MORE UPDATES
-    ON OUR FACEBOOK PAGE AND WE HOPE TO RE-OPEN ASAP!  NO WORRIES, OUR MENU WILL
-    BE BACK AS WELL, WITH SOME ADDITIONS!"
+  text: Concetta's will reopen in February!  Remodeling has taken more time than
+    anticipated due to Covid-19 and other issues. Check back often to see what
+    is happening!
 events:
   heading: Events
   text: |-
