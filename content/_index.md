@@ -25,13 +25,15 @@ specials:
     CHECK OUR FACEBOOK PAGE OR CALL 301-829-7571
 
     ## \*\*\*\*
-
-    __
 cuisine:
   heading: Menu
-  text: Concetta's will reopen in February!  Remodeling has taken more time than
-    anticipated due to Covid-19 and other issues. Check back often to see what
-    is happening!
+  text: >-
+    ***Concetta's will reopen in February!***  Remodeling has taken more time
+    than anticipated due to Covid-19 and other issues. Check back often to see
+    what is happening!
+
+
+    **Concetta's is also looking for motivated customer oriented team members!  Please click the link to download and fill out an application today!**
 events:
   heading: Events
   text: |-
@@ -57,12 +59,12 @@ catering:
 photos:
   heading: Photo Gallery
   photo:
-    - caption: View from Main Street
-      photo: /img/uploads/street.jpg
-    - caption: Inside the store
-      photo: /img/uploads/img_0697.jpg
-    - caption: Nova Lox Platter
-      photo: /img/uploads/phone-photos-8-19-16-170.jpg
+    - photo: /img/uploads/concettas-logo.png
+      caption: LOGO
+    - caption: LOGO
+      photo: /img/uploads/concettas-logo.png
+    - photo: /img/uploads/concettas-logo.png
+      caption: LOGO
 contact:
   email: concettasmainstreetbistro@gmail.com
   heading: Get In Touch
