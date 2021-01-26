@@ -11,7 +11,7 @@ paginate = 10
 	# To provide some metadata for search engines feel free to add a few
     # information about you and your website.
 	name = "Concetta's Main Street Bistro"
-	description = "Located in historic downtown Mount Airy and open daily at 7:30. We invite you to stop in!"
+	description = "Located in historic downtown Mount Airy. We invite you to stop in!"
 
 	# Format dates with Go's time formatting
 	date_format = "2006-01-02"
