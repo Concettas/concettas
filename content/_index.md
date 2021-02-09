@@ -30,10 +30,10 @@ cuisine:
   text: >-
     ***Concetta's will reopen in February!***  Remodeling has taken more time
     than anticipated due to Covid-19 and other issues. Check back often to see
-    what is happening!
+    what is happening! Check out our menu below
 
 
-    **Concetta's is also looking for motivated customer oriented team members!  Please click the link to download and fill out an application today!**
+    http://bw-winelist-website-prod.s3-website-us-west-2.amazonaws.com/98ad96ba-7dca-4d6d-b793-cb0b6855a478-prod
 events:
   heading: Events
   text: |-
@@ -43,7 +43,7 @@ events:
 catering:
   heading: Catering
   text: >-
-    We cater parties, weddings and banquets. Plan your event now!
+    We cater parties, weddings, banquets and more! Plan your event now!
 
 
     **Check out Catering Options** **[Here](https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A398dbed5-aab2-403b-ba43-cfaf3a34fc4a)**\*\*\*\*
@@ -52,10 +52,7 @@ catering:
     **View Catering Photo Gallery** **[Here](https://www.facebook.com/pg/Concettas-Mainstreet-Bistro-108116492564016/photos/?tab=album&album_id=2803219223053716)**\*\*\*\*
 
 
-    For Pricing please call or call for an appointment. 
-
-
-    **\*\*Pricing subject to market changes\*\***
+    For pricing, please call the store.
 photos:
   heading: Photo Gallery
   photo:
@@ -67,14 +64,7 @@ photos:
       caption: LOGO
 contact:
   email: concettasmainstreetbistro@gmail.com
-  heading: Get In Touch
-  text: >-
-    **Come be a part of our team! Click** [**Here**
-    ](https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A5532b0d6-c904-4048-b722-2f21e07c5ef4)
-    **for an Application** 
-
-
-
-
-    Call us anytime! If you have questions or comments, please share them with us below.
+  heading: How Are We Doing?
+  text: Let us know! If you have questions or comments, please share them with us
+    below.
 ---
