@@ -33,7 +33,7 @@ specials:
 
     **Thursday**
 
-    [](<>)[](<>)Grilled Chicken Caesar Wrap 9.99
+    Grilled Chicken Caesar Wrap 9.99
 
     Caprese Grilled Cheese $7.99
 
