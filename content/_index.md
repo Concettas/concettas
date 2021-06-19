@@ -45,15 +45,21 @@ cuisine:
   text: |-
     ***WE ARE OPEN!!!***
 
-    ![](/img/uploads/menu2021.jpg)
+    ![](/img/uploads/hpscan_20210619150535055_2021-06-19_150710436.jpeg)
 
-    ![](/img/uploads/menu2021..jpg)
+    ![](/img/uploads/hpscan_20210619150736824_2021-06-19_150826358.jpeg)
 events:
   heading: Events
   text: "> # THANK YOU FOR COMING TO OUR REGRAND OPENING!!!"
 catering:
   heading: Catering
   text: >-
+    ![](/img/uploads/hpscan_20210619151310908_2021-06-19_151400563.jpeg)
+
+
+    ![](/img/uploads/hpscan_20210619151125261_2021-06-19_151214430.jpeg)
+
+
     We cater parties, weddings, banquets and more! Plan your event now!
 
 
