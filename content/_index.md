@@ -42,12 +42,62 @@ specials:
     Any Reuben $9.99
 cuisine:
   heading: Menu...Same amazing menu, just a new look!
-  text: |-
-    ***WE ARE OPEN!!!***
+  text: >-
+    ***ALL DAY BREAKFAST***
 
-    ![](/img/uploads/hpscan_20210619150535055_2021-06-19_150710436.jpeg)
 
-    ![](/img/uploads/hpscan_20210619150736824_2021-06-19_150826358.jpeg)
+    ***STEAK & 2 EGGS***- (ANY WAY), HOME FRIES & CHOICE OF TOAST **$15.99**
+
+
+    ***LOX PLATTER***-BAGEL, CREAM CHEESE, TOMATO, ONION, CAPERS              **$14.99**                                                          
+
+
+    ***CLASSIC PLATTER***-2 EGGS ANY WAY, BACON, HAM, OR SAUSAGE, HOMEFRIES, CHOICE OF TOAST                  **$9.99**
+
+
+    ***PANCAKES (2***)- **$5.99**
+
+
+    ADD CHOC. CHIPS OR BLUEBERRIES                          **$1.00**    
+
+
+    ***FRENCH TOAST***-MADE FROM CHALLAH BREAD   **$5.99**    
+
+
+    ***HOUSEMADE CREAMED CHIP BEEF***-SERVED OVER CHOICE OF TOAST, BISCUITS, ENGLISH MUFFIN, OR PANCAKE                                                                                      **$9.99**
+
+
+    ***CORNED BEEF HASH***, 2 EGGS ANY STYLE, CHOICE OF TOAST          **$10.99**
+
+
+    ***OMELETS (ALL DAY)***
+
+
+    ALL OMELETS PRICED FOR 2 EGGS INCLUDES CHOICE OF CHEESE, CHOICE OF TOAST AND HOMEFRIES 
+
+
+    ADD EXTRA EGG FOR    **$1.00**
+
+
+    ADD EXTRA MEAT FOR     **$2.00**
+
+
+    3 EGG WHITE OMELET (MIN. 3 EGGS)                      **$8.00**                                                                                                                                          
+
+
+    **FLORENTINE**- SPINACH & FETA                                                 **$8.99**
+
+
+    **WESTERN**-   HAM, PEPPERS, ONION, CHOICE OF CHEESE      **$10.99**
+
+
+    **VEGETABLE**- TOMATOES, SPINACH, ONION, PEPPERS, MUSHROOMS, CHEESE       **$8.99**
+
+
+    **MEAT LOVERS**- HAM, BACON AND SAUSAGE, CHOICE OF CHEESE                **$11.99**
+
+
+    **CREATE YOUR OWN**- ANY OR ALL OF ABOVE INGREDIENTS.  PRICED ACCORDINGLY  **$6.99+**
 events:
   heading: Events
   text: "> # THANK YOU FOR COMING TO OUR REGRAND OPENING!!!"
