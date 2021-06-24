@@ -186,7 +186,7 @@ cuisine:
     **CAESAR SALAD-** ROMAINE, CROUTONS, PARMESAN AND GRATED CHEESES, DRESSING ON SIDE      **$8.99**   
 
 
-    **GARDEN SALAD-** LETTUCE, TOMATOES, ONION, CUCUMBER, PEPPERS, AND MUSHROOMS, CHOICE OF DRESSING  **\    $8.99**                                                                                   
+    **GARDEN SALAD-** LETTUCE, TOMATOES, ONION, CUCUMBER, PEPPERS, AND MUSHROOMS, CHOICE OF DRESSING   **   $8.99**                                                                                   
 
 
     ADD CHICKEN, STEAK, SHRIMP OR A SCOOP CHICKEN, TUNA, SHRIMP OR EGG SALAD FOR ADDITIONAL CHARGE                                                                                        
