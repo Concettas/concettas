@@ -28,7 +28,7 @@ specials:
     ***JULY SPECIALS***
 
 
-    **PESTO MOZZARELLA CHICKEN SANDWICH**  Chicken Breast, mozzarella, grilled tomatoes, basil, pesto, ciabatta bun    **$8.99**
+    **PESTO MOZZARELLA CHICKEN SANDWICH**  Chicken Breast, mozzarella, grilled tomatoes, basil, pesto, ciabatta bun    **$10.99**
 
 
     **ASIAN SALAD**   Fresh salad greens, Mandarin oranges, wonton strips, ginger sesame dressing    **$8.99    ADD CHICKEN OR SHRIMP  +$3.00**
