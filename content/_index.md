@@ -11,7 +11,7 @@ about:
     sat: 8 - 4
     sun: 8 - 3
     thu: 8 - 4
-    tue: CLOSED
+    tue: 8 - 4
     wed: 8 - 4
   phone: 301-829-7571
   text: >-
@@ -24,22 +24,23 @@ about:
     Our patio is open and is pet friendly!
 specials:
   heading: Daily and Seasonal Specials
-  text: |-
-    Our June Weekday specials!
+  text: >-
+    ***JULY SPECIALS***
 
-    **Wednesday**
 
-    Whole Italian Cold Cut with Pasta or Macaroni Salad $9.99
+    **PESTO MOZZARELLA CHICKEN SANDWICH**  Chicken Breast, mozzarella, grilled tomatoes, basil, pesto, ciabatta bun    **$8.99**
 
-    **Thursday**
 
-    Grilled Chicken Caesar Wrap 9.99
+    **ASIAN SALAD**   Fresh salad greens, Mandarin oranges, wonton strips, ginger sesame dressing    **$8.99    ADD CHICKEN OR SHRIMP  +$3.00**
 
-    Caprese Grilled Cheese $7.99
 
-    **Friday**
+    **STEAK SALAD**  Fresh greens, cucumber, tomato, grilled onion, Feta cheese, sliced NY strip steak, blue cheese dressing.    **$11.99**
 
-    Any Reuben $9.99
+
+    **AVOCADO BLT SALAD**  Bacon, avocado, greens, tomato, cucumber, tomato, red onion with your choice of dressing    **$12.99**
+
+
+    **AVOCADO TOAST**   avocado, everything bagel seasoning, choice of Italian or 7 grain honey wheat    **$4.99**
 cuisine:
   heading: Menu...Same amazing menu, just a new look!
   text: >-
@@ -296,10 +297,10 @@ photos:
   photo:
     - photo: /img/uploads/concettas-logo.png
       caption: LOGO
-    - photo: /img/uploads/image6.jpeg
-      caption: Our patio is open and pet friendly
-    - photo: /img/uploads/image2.jpeg
-      caption: Check out our new awning!
+    - photo: /img/uploads/phone-photos-8-19-16-170.jpg
+      caption: Nova Lox Platter
+    - photo: /img/uploads/street.jpg
+      caption: Pet freindly patio
 contact:
   email: concettasmainstreetbistro@gmail.com
   heading: How Are We Doing?
