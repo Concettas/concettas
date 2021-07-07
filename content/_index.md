@@ -8,8 +8,8 @@ about:
   hours:
     fri: 8 - 4
     mon: CLOSED
-    sat: 8 - 4
-    sun: 8 - 3
+    sat: 7:30 - 3
+    sun: 7:30 - 3
     thu: 8 - 4
     tue: 8 - 4
     wed: 8 - 4
