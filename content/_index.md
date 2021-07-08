@@ -272,7 +272,7 @@ cuisine:
     SERVED ON CHOICE OF BREAD OR CROISSANT WITH LETTUCE AND TOMATO
 events:
   heading: Events
-  text: "> # THANK YOU FOR COMING TO OUR REGRAND OPENING!!!"
+  text: "> # Check out our NEW July Specials!"
 catering:
   heading: Catering
   text: >-
@@ -295,12 +295,16 @@ catering:
 photos:
   heading: Photo Gallery
   photo:
-    - photo: /img/uploads/concettas-logo.png
-      caption: LOGO
     - photo: /img/uploads/phone-photos-8-19-16-170.jpg
       caption: Nova Lox Platter
     - photo: /img/uploads/street.jpg
       caption: Pet freindly patio
+    - photo: /img/uploads/20190319_123138.jpg
+      caption: Caprese Sub!
+    - photo: /img/uploads/46495970_2379672018741774_8042392339831848960_n.jpg
+      caption: Cannoli platter!
+    - photo: /img/uploads/20171118_144037.jpg
+      caption: Veggie Platter!
 contact:
   email: concettasmainstreetbistro@gmail.com
   heading: How Are We Doing?
