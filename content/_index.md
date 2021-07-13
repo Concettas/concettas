@@ -18,7 +18,7 @@ about:
     **WE ARE OPEN!!!!**
 
 
-    Welcome to ***Concetta's Main Street Bistro!***  Proudly serving Mt. Airy since **2008**, we are located in historic downtown in the old firehouse.  We feature a complete all day breakfast menu.  Concetta's is famous for our amazing one of kind sandwiches, subs, wraps, salads, and homemade soups. We will be focusing on Carry out and Curb side service with limited indoor dining at present. 
+    Welcome to ***Concetta's Main Street Bistro!***  Proudly serving Mt. Airy since **2008**, we are located in historic downtown in the old firehouse.  We feature a complete all day breakfast menu.  Concetta's is famous for our amazing one of kind sandwiches, subs, wraps, salads, and homemade soups. We are now back to serving our unique menu with complete dine in, take out and curbside service.  Come on down to Concetta's !  We look forward to serving you!
 
 
     Our patio is open and is pet friendly!
