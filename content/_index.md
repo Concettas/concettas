@@ -277,7 +277,7 @@ cuisine:
 
 
 
-    http://bw-winelist-website-prod.s3-website-us-west-2.amazonaws.com/98ad96ba-7dca-4d6d-b793-cb0b6855a478-prod/#/08ccd6ca-4726-43fa-bac7-e55d296929f0 
+    http://bw-winelist-website-prod.s3-website-us-west-2.amazonaws.com/98ad96ba-7dca-4d6d-b793-cb0b6855a478-prod/#/08ccd6ca-4726-43fa-bac7-e55d296929f0
 
 
     ![http://bw-winelist-website-prod.s3-website-us-west-2.amazonaws.com/98ad96ba-7dca-4d6d-b793-cb0b6855a478-prod/#/08ccd6ca-4726-43fa-bac7-e55d296929f0]()
