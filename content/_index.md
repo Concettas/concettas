@@ -284,7 +284,7 @@ events:
 catering:
   heading: Catering
   text: >-
-    ![](/img/uploads/hpscan_20210619151310908_2021-06-19_151400563.jpeg)
+    ![]()
 
 
     ![](/img/uploads/hpscan_20210619151125261_2021-06-19_151214430.jpeg)
