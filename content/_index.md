@@ -287,7 +287,7 @@ catering:
     ![]()
 
 
-    ![](/img/uploads/hpscan_20210619151125261_2021-06-19_151214430.jpeg)
+    ![]()
 
 
     We cater parties, weddings, banquets and more! Plan your event now!
