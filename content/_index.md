@@ -25,22 +25,26 @@ about:
 specials:
   heading: Daily and Seasonal Specials
   text: >-
-    ***JULY SPECIALS***
+    
+
+    > # September will have some of the summer special specials!
+
+
 
 
     **PESTO MOZZARELLA CHICKEN SANDWICH**  Chicken Breast, mozzarella, grilled tomatoes, basil, pesto, ciabatta bun    **$10.99**
-
-
-    **ASIAN SALAD**   Fresh salad greens, Mandarin oranges, wonton strips, ginger sesame dressing    **$8.99    ADD CHICKEN OR SHRIMP  +$3.00**
-
-
-    **STEAK SALAD**  Fresh greens, cucumber, tomato, grilled onion, Feta cheese, sliced NY strip steak, blue cheese dressing.    **$11.99**
 
 
     **AVOCADO BLT SALAD**  Bacon, avocado, greens, tomato, cucumber, tomato, red onion with your choice of dressing    **$12.99**
 
 
     **AVOCADO TOAST**   avocado, everything bagel seasoning, choice of Italian or 7 grain honey wheat    **$4.99**
+
+
+    **MEDITERRANEAN GRILLED CHICKEN-** grilled chicken, muffulata spread, grilled spinach, onion, fresh mozzarella, tomato on a ciabatta roll  **$10.99**
+
+
+    Meal Kits are 15% off until the end of September!
 cuisine:
   heading: Menu...Same amazing menu, just a new look!
   text: >-
@@ -278,16 +282,8 @@ cuisine:
     http://bw-winelist-website-prod.s3-website-us-west-2.amazonaws.com/98ad96ba-7dca-4d6d-b793-cb0b6855a478-prod/#/08ccd6ca-4726-43fa-bac7-e55d296929f0
 events:
   heading: Events
-  text: |-
-    > # September will have some of the summer special specials!
-
-
-
-
-
-
-
-    Meal Kits are 15% off until the end of September!
+  text: "> # We will be open until 8pm on August 28th for the celebrate Mount Airy
+    block party."
 catering:
   heading: Catering
   text: >-
