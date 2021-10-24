@@ -24,27 +24,7 @@ about:
     Our patio is open and is pet friendly!
 specials:
   heading: Daily and Seasonal Specials
-  text: >-
-    
-
-    > # September will have some of the summer special specials!
-
-
-
-
-    **PESTO MOZZARELLA CHICKEN SANDWICH**  Chicken Breast, mozzarella, grilled tomatoes, basil, pesto, ciabatta bun    **$10.99**
-
-
-    **AVOCADO BLT SALAD**  Bacon, avocado, greens, tomato, cucumber, tomato, red onion with your choice of dressing    **$12.99**
-
-
-    **AVOCADO TOAST**   avocado, everything bagel seasoning, choice of Italian or 7 grain honey wheat    **$4.99**
-
-
-    **MEDITERRANEAN GRILLED CHICKEN-** grilled chicken, muffulata spread, grilled spinach, onion, fresh mozzarella, tomato on a ciabatta roll  **$10.99**
-
-
-    Meal Kits are 15% off until the end of September!
+  text: "> # November Specials Coming Soon!"
 cuisine:
   heading: Menu...Same amazing menu, just a new look!
   text: >-
