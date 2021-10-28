@@ -22,6 +22,17 @@ about:
 
 
     Our patio is open and is pet friendly!
+
+
+
+
+    NOW OFFERING ONLINE ORDERING! Use the link below or scan the QR code!
+
+
+    https://www.clover.com/online-ordering/concettas-mainstreet-bistro-mount-airy
+
+
+    ![]()
 specials:
   heading: Daily and Seasonal Specials
   text: "> # November Specials Coming Soon!"
