@@ -8,8 +8,8 @@ about:
   hours:
     fri: 8 - 4
     mon: CLOSED
-    sat: 7:30 - 3
-    sun: 7:30 - 3
+    sat: 8-4
+    sun: 8 - 3
     thu: 8 - 4
     tue: 8 - 4
     wed: 8 - 4
@@ -276,6 +276,73 @@ events:
 catering:
   heading: Catering
   text: >-
+    **BREAKFAST**
+
+
+    *(All below served in 9x13 pans & serve approx. 8-10)*
+
+
+    * Scrambled Eggs (9x13 pan)
+
+    * Home Fries (9x13 pan)
+
+    * Bacon/Sausage/Ham (9x13 pan)
+
+    * Breakfast Casseroles (9x13 pan)
+
+      * Meat & Cheese
+      * Veggie
+      * 3 Cheese
+
+    *Items below priced for individual needs:*
+
+
+    * Assorted bagel platter with plain cream cheese
+
+    * Assorted bagel platter with flavored cream cheese
+
+    * Lox Platter with capers, onions, tomatoes, cucumbers. Feeds 8-10 (bagels not included)
+
+    * Assorted sweet breakfast platter (danish, fresh baked goods, etc.)
+
+    * Fresh in season fruit platter or fruit salad
+
+
+
+
+    **APPETIZERS**
+
+
+    *Items below priced for individual needs:*
+
+
+    * Chesapeake Crab dip
+
+    * Spinach Artichoke dip
+
+    * Deviled eggs (by the dozen)
+
+    * Fresh Vegetable platter served with hummus or ranch dressing
+
+    * Domestic cheese tray
+
+    * Imported cheese tray
+
+    * Fresh mozzarella & tomato platter (seasonal)
+
+
+
+
+    **VEGGIES**
+
+
+    *Items below priced for individual needs:*
+
+
+
+
+
+
     ![]()
 
 
