@@ -339,6 +339,34 @@ catering:
     *Items below priced for individual needs:*
 
 
+    * Steamed vegetables "Normandy"
+
+    * Roasted red potatoes
+
+    * Roasted fresh veggies (in season)
+
+
+
+
+    **MAIN DISHES**
+
+
+    *(All below served in 9x13 pans & serve approx. 8-12)*
+
+
+    * *Chicken Marsala*
+
+    * Grilled chicken breast pieces (served in natural juices)
+
+    * Seasoned & breaded cutlets
+
+    * Concetta's own meatballs
+
+    * Concetta's own sweet & sour meatballs
+
+
+
+
 
 
 
