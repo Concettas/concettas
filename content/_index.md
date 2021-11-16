@@ -275,8 +275,12 @@ events:
     block party."
 catering:
   heading: Catering
-  text: >-2
-     **and BREAKFAST**
+  text: >-
+    **For pricing please call the store. 301-829-7571**
+
+
+    **BREAKFAST**
+
 
     *(All below served in 9x13 pans & serve approx. 8-10)*
 
