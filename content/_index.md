@@ -275,9 +275,8 @@ events:
     block party."
 catering:
   heading: Catering
-  text: >-
-    **BREAKFAST**
-
+  text: >-2
+     **and BREAKFAST**
 
     *(All below served in 9x13 pans & serve approx. 8-10)*
 
@@ -354,7 +353,7 @@ catering:
     *(All below served in 9x13 pans & serve approx. 8-12)*
 
 
-    * *Chicken Marsala*
+    * Chicken Marsala
 
     * Grilled chicken breast pieces (served in natural juices)
 
@@ -363,6 +362,98 @@ catering:
     * Concetta's own meatballs
 
     * Concetta's own sweet & sour meatballs
+
+
+
+
+    **HOUSE MADE SALADS (per LB)**
+
+
+    * Tomato Salad (in season)
+
+    * Pasta or Potato Salad
+
+    * Coleslaw
+
+    * Macaroni Salad
+
+    * Shrimp Salad
+
+    * Chicken Salad
+
+    * Crazy Chicken Salad
+
+    * Garden Salad (160oz)
+
+    * Caesar Salad (160oz)
+
+    * Antipasto Salad (160oz)
+
+
+
+
+    **DELI PLATTERS**
+
+
+    *(any platter can be customized with other meats & cheeses for an additional cost)*
+
+
+    *(Large platters feed approx. 10-15, Small platters feed approx. 8-12)*
+
+
+    * Large Deli Platter: includes 1 1/2LB each Genoa Salami, Capicola Ham, Sopressara Salami, Sliced provolone cheese and garnishes
+
+    * Small Deli Platter:  includes 1 3/4LB each Genoa Salami, Capicola Ham, Sopressara Salami, Sliced provolone cheese and garnishes
+
+    * Large American Platter: includes 1 1/2LB each Roast Beef, Oven Roasted Turkey, Ham, Cheddar & Swiss cheeses and garnishes
+
+    * Small American Platter:includes 1 3/4LB each Roast Beef, Oven Roasted Turkey, Ham, Cheddar & Swiss cheeses and garnishes
+
+    * Assorted Sandwich Platter: Your choice of sandwiches, wraps or subs arranged on a platter with pickles
+
+
+
+
+    **PASTA**
+
+
+    *(All below served in 9x13 pans & serve approx. 8-12)*
+
+
+    * 3 Cheese ziti
+
+    * Meat and cheese ziti
+
+    * Cheese Lasagna
+
+    * Vegetable Lasagna
+
+    * Meat Lasagna
+
+    * Penne with EVOO and Butter
+
+    * Penne with broccoli
+
+
+
+
+    **DESSERTS**
+
+
+    Cannoli Platters
+
+
+    * 24 mini plain
+
+    * 24 mini assorted
+
+    * 12 large plain
+
+    * 12 large assorted (assorted includes half chocoloate dipped and half plain cannoli shells
+
+    * Itlaian Cookie platter
+
+    * Assorted Dessert Platter
 
 
 
