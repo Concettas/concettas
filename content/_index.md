@@ -311,8 +311,6 @@ catering:
     * Fresh in season fruit platter or fruit salad
 
 
-
-
     **APPETIZERS**
 
 
@@ -334,8 +332,6 @@ catering:
     * Fresh mozzarella & tomato platter (seasonal)
 
 
-
-
     **VEGGIES**
 
 
@@ -347,8 +343,6 @@ catering:
     * Roasted red potatoes
 
     * Roasted fresh veggies (in season)
-
-
 
 
     **MAIN DISHES**
@@ -366,8 +360,6 @@ catering:
     * Concetta's own meatballs
 
     * Concetta's own sweet & sour meatballs
-
-
 
 
     **HOUSE MADE SALADS (per LB)**
@@ -394,8 +386,6 @@ catering:
     * Antipasto Salad (160oz)
 
 
-
-
     **DELI PLATTERS**
 
 
@@ -414,8 +404,6 @@ catering:
     * Small American Platter:includes 1 3/4LB each Roast Beef, Oven Roasted Turkey, Ham, Cheddar & Swiss cheeses and garnishes
 
     * Assorted Sandwich Platter: Your choice of sandwiches, wraps or subs arranged on a platter with pickles
-
-
 
 
     **PASTA**
@@ -439,8 +427,6 @@ catering:
     * Penne with broccoli
 
 
-
-
     **DESSERTS**
 
 
@@ -458,12 +444,6 @@ catering:
     * Itlaian Cookie platter
 
     * Assorted Dessert Platter
-
-
-
-
-
-
 
 
     ![]()
