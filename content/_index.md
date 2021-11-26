@@ -6,13 +6,13 @@ about:
     line2: Mount Airy, MD 21771
   heading: "About Us "
   hours:
-    fri: 8 - 4
+    fri: 8am - 4pm
     mon: CLOSED
-    sat: 8-4
-    sun: 8 - 3
-    thu: 8 - 4
-    tue: 8 - 4
-    wed: 8 - 4
+    sat: 8am - 4pm
+    sun: 8am - 3pm
+    thu: 8am - 7pm
+    tue: 8am - 4pm
+    wed: 8am - 4pm
   phone: 301-829-7571
   text: >-
     **WE ARE OPEN!!!!**
@@ -21,7 +21,7 @@ about:
     Welcome to ***Concetta's Main Street Bistro!***  Proudly serving Mt. Airy since **2008**, we are located in historic downtown in the old firehouse.  We feature a complete all day breakfast menu.  Concetta's is famous for our amazing one of kind sandwiches, subs, wraps, salads, and homemade soups. We are now back to serving our unique menu with complete dine in, take out and curbside service.  Come on down to Concetta's !  We look forward to serving you!
 
 
-    Our patio is open and is pet friendly!
+    Our patio is seasonal and is currently closed. 
 
 
     NOW OFFERING ONLINE ORDERING! Use the link below or scan the QR code!
