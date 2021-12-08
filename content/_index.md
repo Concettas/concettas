@@ -296,17 +296,17 @@ events:
   text: |-
     > # Our Holiday Hours...
     >
-    > ###### December 17th 8:00 am-8:00 pm
+    > ## December 17th 8:00 am-8:00 pm
     >
-    > ###### December 23rd 8:00 am-6:00 pm
+    > ## December 23rd 8:00 am-6:00 pm
     >
-    > ###### December 24th 8:00 am-2:00 pm
+    > ## December 24th 8:00 am-2:00 pm
     >
-    > ###### December 25th Closed
+    > ## December 25th Closed
     >
-    > ###### December 31st 8:00 am-2:00 pm
+    > ## December 31st 8:00 am-2:00 pm
     >
-    > ###### January 1st Closed
+    > ## January 1st Closed
 catering:
   heading: Catering
   text: >-
