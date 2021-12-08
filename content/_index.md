@@ -296,23 +296,17 @@ events:
   text: |-
     > # Our Holiday Hours...
     >
-    > **Date	                 Day        Open	Close**
-    > December 17th	Friday	 8am	8pm
+    > ###### December 17th 8:00 am-8:00 pm
     >
+    > ###### December 23rd 8:00 am-6:00 pm
     >
-    > December 23rd	Thursday	 8am	6pm
+    > ###### December 24th 8:00 am-2:00 pm
     >
+    > ###### December 25th Closed
     >
-    > December 24th 	Friday	 8am	2pm
+    > ###### December 31st 8:00 am-2:00 pm
     >
-    >
-    > December 25th 	Saturday	 Closed	Closed
-    >
-    >
-    > December 31st 	Friday	 8am	2pm
-    >
-    >
-    > January 1st	       Saturday	 Closed	Closed
+    > ###### January 1st Closed
 catering:
   heading: Catering
   text: >-
