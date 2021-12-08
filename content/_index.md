@@ -33,7 +33,26 @@ about:
     ![](/img/uploads/clover_qr_code.png)
 specials:
   heading: Daily and Seasonal Specials
-  text: "> # November Specials Coming Soon!"
+  text: |-
+    > # December Specials!
+    >
+    > Soup and Sandwich or Salad Combos! 
+    >
+    > 12oz. Soup* & Grilled cheese (choice of bread and cheese)   $8.99
+    >
+    > 12oz. Soup* & Chicken salad or tuna salad wrap   $9.99
+    >
+    > 12oz. Soup* & 6" Turkey or Italian cold Cut sub   $9.99
+    >
+    > 12oz. Soup* & Garden salad (choice of dressing) or Caesar salad $8.99
+
+    \*specialty soups add $1.00
+
+
+
+    Reuben Tuesdays! $2.00 off regular price
+
+    Meatball Sub Fridays! $2.00 off regular price
 cuisine:
   heading: Menu...Same amazing menu, just a new look!
   text: >-
