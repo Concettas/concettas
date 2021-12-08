@@ -298,10 +298,20 @@ events:
     >
     > **Date	                 Day        Open	Close**
     > December 17th	Friday	 8am	8pm
+    >
+    >
     > December 23rd	Thursday	 8am	6pm
+    >
+    >
     > December 24th 	Friday	 8am	2pm
+    >
+    >
     > December 25th 	Saturday	 Closed	Closed
+    >
+    >
     > December 31st 	Friday	 8am	2pm
+    >
+    >
     > January 1st	       Saturday	 Closed	Closed
 catering:
   heading: Catering
