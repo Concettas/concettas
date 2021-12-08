@@ -24,6 +24,9 @@ about:
     Our patio is seasonal and is currently closed. 
 
 
+    STARTING IN DECEMBER WE WILL BE OPEN UNTIL 7PM ON THURSDAYS! 
+
+
     NOW OFFERING ONLINE ORDERING! Use the link below or scan the QR code!
 
 
@@ -290,8 +293,16 @@ cuisine:
     http://bw-winelist-website-prod.s3-website-us-west-2.amazonaws.com/98ad96ba-7dca-4d6d-b793-cb0b6855a478-prod/#/08ccd6ca-4726-43fa-bac7-e55d296929f0
 events:
   heading: Events
-  text: "> # We will be open until 8pm on August 28th for the celebrate Mount Airy
-    block party."
+  text: |-
+    > # Our Holiday Hours...
+    >
+    > **Date	                 Day        Open	Close**
+    > December 17th	Friday	 8am	8pm
+    > December 23rd	Thursday	 8am	6pm
+    > December 24th 	Friday	 8am	2pm
+    > December 25th 	Saturday	 Closed	Closed
+    > December 31st 	Friday	 8am	2pm
+    > January 1st	       Saturday	 Closed	Closed
 catering:
   heading: Catering
   text: >-
