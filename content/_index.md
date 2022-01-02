@@ -24,9 +24,6 @@ about:
     Our patio is seasonal and is currently closed. 
 
 
-    STARTING IN DECEMBER WE WILL BE OPEN UNTIL 7PM ON THURSDAYS! 
-
-
     NOW OFFERING ONLINE ORDERING! Use the link below or scan the QR code!
 
 
