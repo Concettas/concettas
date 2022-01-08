@@ -6,13 +6,13 @@ about:
     line2: Mount Airy, MD 21771
   heading: "About Us "
   hours:
-    fri: 8am - 4pm
+    fri: 8am - 3pm
     mon: CLOSED
-    sat: 8am - 4pm
+    sat: 8am - 3pm
     sun: 8am - 3pm
-    thu: 8am - 4pm
-    tue: 8am - 4pm
-    wed: 8am - 4pm
+    thu: 8am - 3pm
+    tue: 8am - 3pm
+    wed: 8am - 3pm
   phone: 301-829-7571
   text: >-
     **WE ARE OPEN!!!!**
@@ -24,7 +24,24 @@ about:
     Our patio is seasonal and is currently closed. 
 
 
-    NOW OFFERING ONLINE ORDERING! Use the link below or scan the QR code!
+    **NEW WINTER HOURS!!!!** 
+
+
+    **Monday Closed**
+
+
+    **Tuesday-Sunday 8:00am-3:00pm**
+
+
+    **(Weather permitting)**
+
+
+
+
+    NOW OFFERING ONLINE ORDERING! With curbside pick up!
+
+
+    Use the link below or scan the QR code!
 
 
     https://www.clover.com/online-ordering/concettas-mainstreet-bistro-mount-airy
@@ -272,19 +289,13 @@ cuisine:
 events:
   heading: Events
   text: |-
-    > # Our Holiday Hours...
-    >
-    > ## December 17th 8:00 am-8:00 pm
-    >
-    > ## December 23rd 8:00 am-6:00 pm
-    >
-    > ## December 24th 8:00 am-2:00 pm
-    >
-    > ## December 25th Closed
-    >
-    > ## December 31st 8:00 am-2:00 pm
-    >
-    > ## January 1st Closed
+    **NEW WINTER HOURS!!!!** 
+
+    **Monday Closed**
+
+    **Tuesday-Sunday 8:00am-3:00pm**
+
+    **(Weather permitting)**
 catering:
   heading: Catering
   text: >-
