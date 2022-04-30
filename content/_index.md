@@ -24,7 +24,7 @@ about:
     Our patio is seasonal and can be used weather permitting! 
 
 
-    **NEW SPRING HOURS!!!!** 
+    **OUR HOURS!** 
 
 
     **Monday Closed**
@@ -62,42 +62,8 @@ about:
 
     ![](/img/uploads/clover_qr_code.png)
 specials:
-  heading: Daily and Seasonal Specials
-  text: >-
-    March Daily Specials
-
-
-    Tuesday-Friday
-
-
-     
-
-
-    BBQ Shrimp BLT               $10.99
-
-
-    (Served on a grilled ciabatta roll with guacamole, bacon, lettuce, tomato & mayo)
-
-
-    French Toast Sandwich   $9.99 Bacon
-
-
-    $11.99 Sausage
-
-
-    (Bacon or Sausage, egg & cheese on French toast)
-
-
-    Muffulata Sub    $10.99
-
-
-    (Our Italian cold cut with our own roasted pepper, green olive, basil, Pecorino Romano & garlic spread, lettuce, tomato, onion, house dressing)
-
-
-    Chicken, Bacon Ranch Wrap        $8.99
-
-
-    (Chicken, Bacon and Provolone Cheese, lettuce and tomato with ranch dressing on a wrap)
+  heading: SPECIALS
+  text: Check back to see our upcoming specials!
 cuisine:
   heading: Menu...Same amazing menu, just a new look!
   text: >-
@@ -336,7 +302,7 @@ cuisine:
 events:
   heading: Events
   text: |-
-    **NEW SPRING HOURS!!!!** 
+    **OUR HOURS!**
 
     **Monday Closed**
 
