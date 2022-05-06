@@ -6,11 +6,11 @@ about:
     line2: Mount Airy, MD 21771
   heading: "About Us "
   hours:
-    fri: 8am - 5pm
+    fri: 8am - 3pm
     mon: CLOSED
     sat: 8am - 3pm
     sun: 8am - 3pm
-    thu: 8am - 5pm
+    thu: 8am - 3pm
     tue: 8am - 3pm
     wed: 8am - 3pm
   phone: 301-829-7571
@@ -36,10 +36,10 @@ about:
     **Wednesday 8:00am-3:00pm**
 
 
-    **Thursday 8:00am-5:00pm**
+    **Thursday 8:00am-3:00pm**
 
 
-    **Friday 8:00am-5:00pm**
+    **Friday 8:00am-3:00pm**
 
 
     **Saturday 8:00am-3:00pm**
@@ -62,8 +62,18 @@ about:
 
     ![](/img/uploads/clover_qr_code.png)
 specials:
-  heading: SPECIALS
-  text: Check back to see our upcoming specials!
+  heading: MAY SPECIALS
+  text: >-
+    ***Tuesdays:***   ANY REUBEN is back!        $10.99
+
+
+    ***Wednesdays:***  Caprese Grilled Chicken Sandwich...Chicken breast, fresh mozzarella, grilled tomato and basil on a Ciabatta roll.          $10.99
+
+
+    ***Thursdays:***   Cali Club sandwich...Fresh turkey breast, provolone, bacon, guacamole, bacon, lettuce and tomato on toasted Italian bread.        $10.99
+
+
+    ***Fridays:***  12" Meatball and Cheese sub....6 *Concetta's* meatballs, marinara, provolone and shaker cheese on a toasted sub roll                $10.99
 cuisine:
   heading: Menu...Same amazing menu, just a new look!
   text: >-
