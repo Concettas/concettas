@@ -451,13 +451,13 @@ catering:
     *(Large platters feed approx. 10-15, Small platters feed approx. 8-12)*
 
 
-    * Large Deli Platter: includes 1 1/2LB each Genoa Salami, Capicola Ham, Sopressara Salami, Sliced provolone cheese and garnishes
+    * Large Deli Platter: includes 1 LB each Genoa Salami, Capicola Ham, Sopressara Salami, Sliced provolone cheese and garnishes
 
-    * Small Deli Platter:  includes 1 3/4LB each Genoa Salami, Capicola Ham, Sopressara Salami, Sliced provolone cheese and garnishes
+    * Small Deli Platter:  includes 1 LB each Genoa Salami, Capicola Ham, Sopressara Salami, Sliced provolone cheese and garnishes
 
-    * Large American Platter: includes 1 1/2LB each Roast Beef, Oven Roasted Turkey, Ham, Cheddar & Swiss cheeses and garnishes
+    * Large American Platter: includes  1/2 LB each Roast Beef, Oven Roasted Turkey, Ham, Cheddar & Swiss cheeses and garnishes
 
-    * Small American Platter:includes 1 3/4LB each Roast Beef, Oven Roasted Turkey, Ham, Cheddar & Swiss cheeses and garnishes
+    * Small American Platter:includes 1 LB each Roast Beef, Oven Roasted Turkey, Ham, Cheddar & Swiss cheeses and garnishes
 
     * Assorted Sandwich Platter: Your choice of sandwiches, wraps or subs arranged on a platter with pickles
 
@@ -521,10 +521,10 @@ catering:
 photos:
   heading: Photo Gallery
   photo:
-    - photo: /img/uploads/phone-photos-8-19-16-170.jpg
-      caption: Nova Lox Platter
     - photo: /img/uploads/street.jpg
       caption: Pet freindly patio
+    - photo: /img/uploads/phone-photos-8-19-16-170.jpg
+      caption: Nova Lox Platter
     - photo: /img/uploads/20190319_123138.jpg
       caption: Caprese Sub!
     - photo: /img/uploads/46495970_2379672018741774_8042392339831848960_n.jpg
