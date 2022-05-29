@@ -62,12 +62,12 @@ about:
 
     ![](/img/uploads/clover_qr_code.png)
 specials:
-  heading: MAY SPECIALS
+  heading: " JUNE SPECIALS"
   text: >-
     ***Tuesdays:***   ANY REUBEN is back!        $10.99
 
 
-    ***Wednesdays:***  Caprese Grilled Chicken Sandwich...Chicken breast, fresh mozzarella, grilled tomato and basil on a Ciabatta roll.          $10.99
+    ***Wednesdays:***  Caprese Grilled Cheese...fresh mozzarella, grilled tomato and basil on a grilled Italian bread.         $10.99
 
 
     ***Thursdays:***   Cali Club sandwich...Fresh turkey breast, provolone, bacon, guacamole, bacon, lettuce and tomato on toasted Italian bread.        $10.99
