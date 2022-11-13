@@ -12,7 +12,7 @@ about:
     sun: 8am - 3pm
     thu: 8am - 3pm
     tue: 8am - 3pm
-    wed: 8am - 3pm
+    wed: CLOSED
   phone: 301-829-7571
   text: >-
     **WE ARE OPEN!!!!**
@@ -33,7 +33,7 @@ about:
     **Tuesday 8:00am-3:00pm**
 
 
-    **Wednesday 8:00am-3:00pm**
+    **Wednesday CLOSED**
 
 
     **Thursday 8:00am-3:00pm**
@@ -45,7 +45,7 @@ about:
     **Saturday 8:00am-3:00pm**
 
 
-    **Sunday 8:00am-3:00pm**
+    **Sunday 8:00am-2:00pm**
 
 
     **(Weather permitting)**
@@ -62,18 +62,27 @@ about:
 
     ![](/img/uploads/clover_qr_code.png)
 specials:
-  heading: " JUNE SPECIALS"
+  heading: " NOVEMBER SPECIALS"
   text: >-
-    ***Tuesdays:***   ANY REUBEN is back!        $10.99
+    ***Tuesdays:***   ANY REUBEN is back!        $11.99
 
 
-    ***Wednesdays:***  Caprese Grilled Cheese...fresh mozzarella, grilled tomato and basil on a grilled Italian bread.         $10.99
+    ***Thursdays:***   12" Cheesesteak $11.99
 
 
-    ***Thursdays:***   Cali Club sandwich...Fresh turkey breast, provolone, bacon, guacamole, bacon, lettuce and tomato on toasted Italian bread.        $10.99
+    ***Fridays:***  12" Meatball and Cheese sub....6 *Concetta's* meatballs, marinara, provolone and shaker cheese on a toasted sub roll                $11.99
 
 
-    ***Fridays:***  12" Meatball and Cheese sub....6 *Concetta's* meatballs, marinara, provolone and shaker cheese on a toasted sub roll                $10.99
+    ***P﻿LUS:  EVERY TUES, THURS AND FRIDAY!***
+
+
+    ***S﻿OUP AND SANDWICH COMBO!***
+
+
+    1﻿/2 ITALIAN COLD CUT or CHICKEN SALAD ON A CROISSANT or a BLT 
+
+
+    A﻿ND A CUP OR SOUP!            $9.99
 cuisine:
   heading: Menu...Same amazing menu, just a new look!
   text: >-
@@ -318,7 +327,7 @@ events:
 
     **Tuesday 8:00am-3:00pm**
 
-    **Wednesday 8:00am-3:00pm**
+    **Wednesday CLOSED**
 
     **Thursday 8:00am-5:00pm**
 
@@ -521,10 +530,10 @@ catering:
 photos:
   heading: Photo Gallery
   photo:
-    - photo: /img/uploads/street.jpg
-      caption: Pet freindly patio
     - photo: /img/uploads/phone-photos-8-19-16-170.jpg
       caption: Nova Lox Platter
+    - photo: /img/uploads/street.jpg
+      caption: Pet freindly patio
     - photo: /img/uploads/20190319_123138.jpg
       caption: Caprese Sub!
     - photo: /img/uploads/46495970_2379672018741774_8042392339831848960_n.jpg
