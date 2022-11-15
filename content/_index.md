@@ -9,7 +9,7 @@ about:
     fri: 8am - 3pm
     mon: CLOSED
     sat: 8am - 3pm
-    sun: 8am - 3pm
+    sun: 8am - 2pm
     thu: 8am - 3pm
     tue: 8am - 3pm
     wed: CLOSED
@@ -62,7 +62,7 @@ about:
 
     ![](/img/uploads/clover_qr_code.png)
 specials:
-  heading: " NOVEMBER SPECIALS"
+  heading: " NOVEMBER and DECEMBER SPECIALS"
   text: >-
     ***Tuesdays:***   ANY REUBEN is back!        $11.99
 
@@ -79,10 +79,10 @@ specials:
     ***S﻿OUP AND SANDWICH COMBO!***
 
 
-    1﻿/2 ITALIAN COLD CUT or CHICKEN SALAD ON A CROISSANT or a BLT 
+    *1﻿/2 ITALIAN COLD CUT **OR** CHICKEN SALAD ON A CROISSANT **OR** a BLT* 
 
 
-    A﻿ND A CUP OR SOUP!            $9.99
+    ***A﻿ND** A CUP OR SOUP!            $9.99*
 cuisine:
   heading: Menu...Same amazing menu, just a new look!
   text: >-
