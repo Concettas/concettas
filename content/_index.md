@@ -62,27 +62,21 @@ about:
 
     ![](/img/uploads/clover_qr_code.png)
 specials:
-  heading: " NOVEMBER and DECEMBER SPECIALS"
-  text: >-
+  heading: " DECEMBER SPECIALS"
+  text: |-
     ***Tuesdays:***   ANY REUBEN is back!        $11.99
 
+    ***Thursdays:***   BBQ Shrimp Guacamole BLT     $11.99
 
-    ***Thursdays:***   12" Cheesesteak $11.99
-
-
-    ***Fridays:***  12" Meatball and Cheese sub....6 *Concetta's* meatballs, marinara, provolone and shaker cheese on a toasted sub roll                $11.99
-
+    ***Fridays:***  Our Famous 12" Italian Cold Cut     $11.99
 
     ***P﻿LUS:  EVERY TUES, THURS AND FRIDAY!***
 
-
     ***S﻿OUP AND SANDWICH COMBO!***
-
 
     *1﻿/2 ITALIAN COLD CUT **OR** CHICKEN SALAD ON A CROISSANT **OR** a BLT* 
 
-
-    ***A﻿ND** A CUP OR SOUP!            $9.99*
+    **\*A﻿ND** A CUP OR SOUP!            $9.99*
 cuisine:
   heading: Menu...Same amazing menu, just a new look!
   text: >-
