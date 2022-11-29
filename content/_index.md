@@ -33,7 +33,7 @@ about:
     **Tuesday 8:00am-3:00pm**
 
 
-    **Wednesday CLOSED**
+    **Wednesday CLOSED (temporarily)**
 
 
     **Thursday 8:00am-3:00pm**
