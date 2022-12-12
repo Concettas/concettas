@@ -12,7 +12,7 @@ about:
     sun: 8am - 2pm
     thu: 8am - 3pm
     tue: 8am - 3pm
-    wed: Open 8am-3pm thru Dec. 31
+    wed: 8am-3pm
   phone: 301-829-7571
   text: >-
     **WE ARE OPEN!!!!**
@@ -33,7 +33,7 @@ about:
     **Tuesday 8:00am-3:00pm**
 
 
-    **Wednesday CLOSED (temporarily)**
+    **Wednesday 8:00am-3:00pm**
 
 
     **Thursday 8:00am-3:00pm**
@@ -321,7 +321,7 @@ events:
 
     **Tuesday 8:00am-3:00pm**
 
-    **Wednesday CLOSED**
+    **Wednesday 8:00am-3:00pm** 
 
     **Thursday 8:00am-5:00pm**
 
@@ -329,7 +329,7 @@ events:
 
     **Saturday 8:00am-3:00pm**
 
-    **Sunday 8:00am-3:00pm**
+    **Sunday 8:00am-2:00pm**
 
     **(Weather permitting)**
 catering:
