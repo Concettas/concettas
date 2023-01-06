@@ -7,12 +7,12 @@ about:
   heading: "About Us "
   hours:
     fri: 8am - 3pm
-    mon: CLOSED
+    mon: 8am - 2pm
     sat: 8am - 3pm
     sun: 8am - 2pm
     thu: 8am - 3pm
     tue: 8am - 3pm
-    wed: 8am-3pm
+    wed: CLOSED
   phone: 301-829-7571
   text: >-
     **WE ARE OPEN!!!!**
@@ -27,13 +27,13 @@ about:
     **OUR HOURS!** 
 
 
-    **Monday Closed**
+    **Monday 8:00am-2:00pm** 
 
 
     **Tuesday 8:00am-3:00pm**
 
 
-    **Wednesday 8:00am-3:00pm**
+    **Wednesday CLOSED**
 
 
     **Thursday 8:00am-3:00pm**
@@ -62,23 +62,32 @@ about:
 
     ![](/img/uploads/clover_qr_code.png)
 specials:
-  heading: " DECEMBER SPECIALS"
-  text: |-
+  heading: " JANUARY SPECIALS"
+  text: >-
+    ***M﻿ondays:***  Asian Salad w/grilled chicken or shrimp   $11.99
+
+
     ***Tuesdays:***   ANY REUBEN is back!        $11.99
 
-    ***Thursdays:***   BBQ Shrimp Guacamole BLT     $11.99
 
-    ***Fridays:***  Our Famous 12" Italian Cold Cut     $11.99
+    ***Thursdays:***   Cali Club turkey, prov, bacon, guac, LT,    $11.99
 
-    ***P﻿LUS:  EVERY TUES THRU FRIDAY!!***
+
+    ***Fridays:***  Our Famous 12" Meatball Sub   $11.99
+
+
+    ***P﻿LUS:  DAILY:***
+
 
     ***S﻿OUP AND SANDWICH COMBO!***
 
-    *1﻿/2 ITALIAN COLD CUT **OR** CHICKEN SALAD ON A CROISSANT **OR** a BLT* 
 
-    **\*A﻿ND** A CUP OF SOUP!            $9.99*
+    \-G﻿rilled ham and cheese OR chicken salad croissant PLUS a cup of soup  $9.99
+
+
+    \-﻿Avocado Toast With eggs $8.99 or without $5.99
 cuisine:
-  heading: Menu...Same amazing menu, just a new look!
+  heading: Menu...Same  amazing menu, just a new look!
   text: >-
     ![]()
 
