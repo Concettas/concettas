@@ -27,7 +27,7 @@ about:
     **OUR HOURS!** 
 
 
-    **Monday 8:00am-2:00pm** 
+    **Monday 8:00am-3:00pm** 
 
 
     **Tuesday 8:00am-3:00pm**
