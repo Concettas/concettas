@@ -9,7 +9,7 @@ about:
     fri: 8am - 3pm
     mon: 8am - 2pm
     sat: 8am - 3pm
-    sun: 8am - 2pm
+    sun: 8am - 3pm
     thu: 8am - 3pm
     tue: 8am - 3pm
     wed: CLOSED
