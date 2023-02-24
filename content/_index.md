@@ -326,11 +326,11 @@ events:
   text: |-
     **OUR HOURS!**
 
-    **Monday Closed**
+    **Monday 8:00am-3:00pm**
 
     **Tuesday 8:00am-3:00pm**
 
-    **Wednesday 8:00am-3:00pm** 
+    **Wednesday Closed** 
 
     **Thursday 8:00am-5:00pm**
 
