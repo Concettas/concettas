@@ -18,7 +18,7 @@ about:
     **WE ARE OPEN!!!!**
 
 
-    Welcome to ***Concetta's Main Street Bistro!***  Proudly serving Mt. Airy since **2008**, we are located in historic downtown in the old firehouse.  We feature a complete all day breakfast menu.  Concetta's is famous for our amazing one of kind sandwiches, subs, wraps, salads, and homemade soups. We are now back to serving our unique menu with complete dine in, take out and curbside service.  Come on down to Concetta's !  We look forward to serving you!
+    Welcome to ***Concetta's Main Street Bistro!***  Proudly serving Mt. Airy since **2008**, we are located in historic downtown in the old firehouse.  We feature a complete all day breakfast menu.  Concetta's is famous for our amazing one of kind sandwiches, subs, wraps, salads, and homemade soups. We offer our unique menu with complete dine in, take out and curbside service.  Come on down to Concetta's !  We look forward to serving you!
 
 
     Our patio is seasonal and can be used weather permitting! 
@@ -62,18 +62,18 @@ about:
 
     ![](/img/uploads/clover_qr_code.png)
 specials:
-  heading: " JANUARY SPECIALS"
+  heading: " March Specials"
   text: >-
-    ***M﻿ondays:***  Asian Salad w/grilled chicken or shrimp   $11.99
+    ***M﻿ondays:***  Our famous 6" Italian Cold Cut with chips      $6.99!
 
 
-    ***Tuesdays:***   ANY REUBEN is back!        $11.99
+    ***Tuesdays:***   ANY REUBEN      $11.99       
 
 
-    ***Thursdays:***   Cali Club turkey, prov, bacon, guac, LT,    $11.99
+    ***Thursdays:***   Concetta's Turkey Club:  Turkey, Provolone. Bacon, lettuce, tomato, mayo on your choice of 3 slices of our yummy bread         $11.99
 
 
-    ***Fridays:***  Our Famous 12" Meatball Sub   $11.99
+    ***Fridays:***  Tuna Melt:  Fresh made Tuna salad on your choice of english muffin or toast, open faced with your choice of melted cheese.         $11.99
 
 
     ***P﻿LUS:  DAILY:***
@@ -82,12 +82,12 @@ specials:
     ***S﻿OUP AND SANDWICH COMBO!***
 
 
-    \-G﻿rilled ham and cheese OR chicken salad croissant PLUS a cup of soup  $9.99
+    \-G﻿rilled cheese OR chicken salad croissant **PLUS** a cup of soup  $9.99  Speciality soups add $1 
 
 
-    \-﻿Avocado Toast With eggs $8.99 or without $5.99
+    \-﻿Avocado Toast With eggs $8.99 or without $5.99  (when available)
 cuisine:
-  heading: Menu...Same  amazing menu, just a new look!
+  heading: Menu. Very diverse; we offer many choices
   text: >-
     ![]()
 
