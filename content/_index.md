@@ -7,7 +7,7 @@ about:
   heading: "About Us "
   hours:
     fri: 8am - 3pm
-    mon: 8am - 2pm
+    mon: 8am - 3pm
     sat: 8am - 3pm
     sun: 8am - 3pm
     thu: 8am - 3pm
