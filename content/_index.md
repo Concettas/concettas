@@ -27,13 +27,13 @@ about:
     **OUR HOURS!** 
 
 
-    **Monday 8:00am-3:00pm** 
+    **Monday CLOSED**
 
 
     **Tuesday 8:00am-3:00pm**
 
 
-    **Wednesday CLOSED**
+    **Wednesday 8:00am-3.00pm**
 
 
     **Thursday 8:00am-3:00pm**
@@ -45,7 +45,7 @@ about:
     **Saturday 8:00am-3:00pm**
 
 
-    **Sunday 8:00am-2:00pm**
+    **Sunday 8:00am-3:00pm**
 
 
     **(Weather permitting)**
