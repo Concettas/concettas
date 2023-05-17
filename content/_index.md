@@ -62,18 +62,20 @@ about:
 
     ![](/img/uploads/clover_qr_code.png)
 specials:
-  heading: " March Specials"
+  heading: " May Specials"
   text: >-
-    ***M﻿ondays:***  Our famous 6" Italian Cold Cut with chips      $6.99!
+    
+
+    ***Tuesdays:***   ANY REUBEN      $11.99      
 
 
-    ***Tuesdays:***   ANY REUBEN      $11.99       
+    ***W﻿ednesdays:***  12" Spicy Italian Cold Cut     $11.99
 
 
     ***Thursdays:***   Concetta's Turkey Club:  Turkey, Provolone. Bacon, lettuce, tomato, mayo on your choice of 3 slices of our yummy bread         $11.99
 
 
-    ***Fridays:***  Tuna Melt:  Fresh made Tuna salad on your choice of english muffin or toast, open faced with your choice of melted cheese.         $11.99
+    ***Fridays:*** Grilled Chicken Pesto Mozzarella on a ciabatta roll $11.99
 
 
     ***P﻿LUS:  DAILY:***
