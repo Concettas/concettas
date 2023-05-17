@@ -7,12 +7,12 @@ about:
   heading: "About Us "
   hours:
     fri: 8am - 3pm
-    mon: 8am - 3pm
+    mon: CLOSED
     sat: 8am - 3pm
     sun: 8am - 3pm
     thu: 8am - 3pm
     tue: 8am - 3pm
-    wed: CLOSED
+    wed: 8am-3pm
   phone: 301-829-7571
   text: >-
     **WE ARE OPEN!!!!**
