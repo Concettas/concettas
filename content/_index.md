@@ -7,7 +7,7 @@ about:
   heading: "About Us "
   hours:
     fri: 8am - 3pm
-    mon: 8am-3pm
+    mon: CLOSED
     sat: 8am - 3pm
     sun: 8am - 3pm
     thu: 8am - 3pm
@@ -27,7 +27,7 @@ about:
     **OUR HOURS!** 
 
 
-    **Monday 8.00am- 3:00pm**
+    **Monday CLOSED**
 
 
     **Tuesday 8:00am-3:00pm**
@@ -61,18 +61,16 @@ about:
 specials:
   heading: " May Specials"
   text: >-
-    
-
-    ***Tuesdays:***   ANY REUBEN      $11.99      
+    ***Tuesdays:***   **ANY REUBEN**      
 
 
-    ***W﻿ednesdays:***  12" Spicy Italian Cold Cut     $11.99
+    ***W﻿ednesdays:***  **Chicken, Egg or Tuna salad wraps**
 
 
-    ***Thursdays:***   Concetta's Turkey Club:  Turkey, Provolone. Bacon, lettuce, tomato, mayo on your choice of 3 slices of our yummy bread         $11.99
+    ***Thursdays:***   **Concetta's Club Day!**
 
 
-    ***Fridays:*** Grilled Chicken Pesto Mozzarella on a ciabatta roll $11.99
+    ***Fridays:  Meatball sub!***
 
 
     ***P﻿LUS:  DAILY:***
@@ -81,10 +79,7 @@ specials:
     ***S﻿OUP AND SANDWICH COMBO!***
 
 
-    \-G﻿rilled cheese OR chicken salad croissant **PLUS** a cup of soup  $9.99  Speciality soups add $1 
-
-
-    \-﻿Avocado Toast With eggs $8.99 or without $5.99  (when available)
+    \-G﻿rilled cheese OR chicken salad croissant **PLUS** a cup of soup  $9.99  Speciality soups add $1
 cuisine:
   heading: Menu. Very diverse; we offer many choices
   text: >-
