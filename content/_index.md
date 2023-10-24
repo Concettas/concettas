@@ -75,7 +75,13 @@ specials:
     ***S﻿OUP AND SANDWICH COMBO!***
 
 
-    \-G﻿rilled cheese OR chicken salad croissant **PLUS** a cup of soup  $9.99  Speciality soups add $1
+    \-G﻿rilled cheese OR 1/2 Chicken salad sandwich OR 1/2 Caprese grilled cheese **PLUS** a cup of soup  $8.99  Specialty soups add $1
+
+
+    **L﻿IMITED TIME ONLY:**
+
+
+    C﻿oncetta's Cuban Sandwich $9.99
 cuisine:
   heading: Menu. Very diverse; we offer many choices
   text: >-
@@ -375,7 +381,7 @@ catering:
     *Items below priced for individual needs:*
 
 
-    * Chesapeake Crab dip
+    * Chesapeake Crab dip (MKT price)
 
     * Spinach Artichoke dip
 
@@ -453,13 +459,13 @@ catering:
     *(Large platters feed approx. 10-15, Small platters feed approx. 8-12)*
 
 
-    * Large Deli Platter: includes 1 LB each Genoa Salami, Capicola Ham, Sopressara Salami, Sliced provolone cheese and garnishes
+    * Large Deli Platter: includes 1 LB each Genoa Salami, Capicola Ham, Soppressata Salami, Sliced provolone cheese and garnishes
 
-    * Small Deli Platter:  includes 1 LB each Genoa Salami, Capicola Ham, Sopressara Salami, Sliced provolone cheese and garnishes
+    * Small Deli Platter:  includes 1/2 LB each Genoa Salami, Capicola Ham, Soppressata Salami, Sliced provolone cheese and garnishes
 
-    * Large American Platter: includes  1/2 LB each Roast Beef, Oven Roasted Turkey, Ham, Cheddar & Swiss cheeses and garnishes
+    * Large American Platter: includes  1 LB each Roast Beef, Oven Roasted Turkey, Ham, Cheddar & Swiss cheeses and garnishes
 
-    * Small American Platter:includes 1 LB each Roast Beef, Oven Roasted Turkey, Ham, Cheddar & Swiss cheeses and garnishes
+    * Small American Platter: includes 1/2 LB each Roast Beef, Oven Roasted Turkey, Ham, Cheddar & Swiss cheeses and garnishes
 
     * Assorted Sandwich Platter: Your choice of sandwiches, wraps or subs arranged on a platter with pickles
 
@@ -497,9 +503,9 @@ catering:
 
     * 12 large plain
 
-    * 12 large assorted (assorted includes half chocoloate dipped and half plain cannoli shells
+    * 12 large assorted (assorted includes half chocolate dipped and half plain cannoli shells
 
-    * Itlaian Cookie platter
+    * Italian Cookie platter
 
     * Assorted Dessert Platter
 
