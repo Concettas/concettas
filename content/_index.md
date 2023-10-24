@@ -7,7 +7,7 @@ about:
   heading: "About Us "
   hours:
     fri: 8am - 3pm
-    mon: CLOSED
+    mon: 8am-3pm
     sat: 8am - 3pm
     sun: 8am - 3pm
     thu: 8am - 3pm
@@ -57,7 +57,7 @@ about:
     https://www.clover.com/online-ordering/concettas-mainstreet-bistro-mount-airy
 
 
-    ![](/img/uploads/clover_qr_code.png)
+    ![]()
 specials:
   heading: " May Specials"
   text: >-
@@ -325,19 +325,19 @@ events:
   text: |-
     **OUR HOURS!**
 
-    **Monday 8:00am-3:00pm**
+    **Monday Closed**
 
     **Tuesday 8:00am-3:00pm**
 
-    **Wednesday Closed** 
+    **Wednesday 8:00am-3:00pm**
 
-    **Thursday 8:00am-5:00pm**
+    **Thursday 8:00am-3:00pm**
 
-    **Friday 8:00am-5:00pm**
+    **Friday 8:00am-3:00pm**
 
     **Saturday 8:00am-3:00pm**
 
-    **Sunday 8:00am-2:00pm**
+    **Sunday 8:00am-3:00pm**
 
     **(Weather permitting)**
 catering:
@@ -531,17 +531,7 @@ catering:
     For pricing, please call the store.
 photos:
   heading: Photo Gallery
-  photo:
-    - photo: /img/uploads/phone-photos-8-19-16-170.jpg
-      caption: Nova Lox Platter
-    - photo: /img/uploads/street.jpg
-      caption: Pet freindly patio
-    - photo: /img/uploads/20190319_123138.jpg
-      caption: Caprese Sub!
-    - photo: /img/uploads/46495970_2379672018741774_8042392339831848960_n.jpg
-      caption: Cannoli platter!
-    - photo: /img/uploads/20171118_144037.jpg
-      caption: Veggie Platter!
+  photo: []
 contact:
   email: concettasmainstreetbistro@gmail.com
   heading: How Are We Doing?
