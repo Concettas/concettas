@@ -12,7 +12,7 @@ about:
     sun: 8am - 3pm
     thu: 8am - 3pm
     tue: 8am - 3pm
-    wed: 8am-3pm
+    wed: 8am - 3pm
   phone: 301-829-7571
   text: >-
     **WE ARE OPEN!!!!**
@@ -51,15 +51,11 @@ about:
     **(Weather permitting)**
 
 
-    Use the link below or scan the QR code
-
-
-    https://www.clover.com/online-ordering/concettas-mainstreet-bistro-mount-airy
 
 
     ![]()
 specials:
-  heading: " May Specials"
+  heading: Fall Specials
   text: >-
     ***Tuesdays:***   **ANY REUBEN**      
 
