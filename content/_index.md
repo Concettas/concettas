@@ -27,7 +27,7 @@ about:
     **OUR HOURS!** 
 
 
-    **Monday CLOSED**
+    **Monday 8.00am- 3:00pm**
 
 
     **Tuesday 8:00am-3:00pm**
@@ -49,9 +49,6 @@ about:
 
 
     **(Weather permitting)**
-
-
-    NOW OFFERING ONLINE ORDERING! With curbside pick up!
 
 
     Use the link below or scan the QR code!
