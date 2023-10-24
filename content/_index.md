@@ -51,7 +51,7 @@ about:
     **(Weather permitting)**
 
 
-    Use the link below or scan the QR code!
+    Use the link below or scan the QR code
 
 
     https://www.clover.com/online-ordering/concettas-mainstreet-bistro-mount-airy
