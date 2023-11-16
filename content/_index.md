@@ -80,6 +80,18 @@ specials:
 
 
     C﻿oncetta's Cuban Sandwich $9.99
+
+
+    **\*﻿Thurs, Fri, Sat:** 
+
+
+    \*Fettuccine Alfredo $8.99\
+
+    *F﻿ettuccine Chicken Alfredo $12.99\
+
+    *F﻿ettuccine Alfredo Meal with mini salad $14.99\
+
+    *F﻿ettuccine Chicken Alfredo meal with mini salad $18.99
 cuisine:
   heading: Menu. Very diverse; we offer many choices
   text: >-
