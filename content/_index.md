@@ -24,7 +24,7 @@ about:
     Our patio is seasonal and can be used weather permitting! 
 
 
-    **OUR HOURS!** 
+    **OUR HOURS!** **\*Concetta's will be open from 8am-7pm on Thurs, Fri, and Sat until Dec 31st!**
 
 
     **Monday CLOSED**
@@ -36,21 +36,19 @@ about:
     **Wednesday 8:00am-3.00pm**
 
 
-    **Thursday 8:00am-3:00pm**
+    **Thursday 8:00am-7:00pm**
 
 
-    **Friday 8:00am-3:00pm**
+    **Friday 8:00am-7:00pm**
 
 
-    **Saturday 8:00am-3:00pm**
+    **Saturday 8:00am-7:00pm**
 
 
     **Sunday 8:00am-3:00pm**
 
 
     **(Weather permitting)**
-
-
 
 
     ![]()
