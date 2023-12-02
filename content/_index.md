@@ -80,18 +80,6 @@ specials:
 
 
     C﻿oncetta's Cuban Sandwich $9.99
-
-
-    **\*﻿Thurs, Fri, Sat:** 
-
-
-    \*Fettuccine Alfredo $8.99\
-
-    *F﻿ettuccine Chicken Alfredo $12.99\
-
-    *F﻿ettuccine Alfredo Meal with mini salad $14.99\
-
-    *F﻿ettuccine Chicken Alfredo meal with mini salad $18.99
 cuisine:
   heading: Menu. Very diverse; we offer many choices
   text: >-
@@ -335,15 +323,17 @@ events:
 
     **Wednesday 8:00am-3:00pm**
 
-    **Thursday 8:00am-3:00pm**
+    **Thursday 8:00am-7:00pm***
 
-    **Friday 8:00am-3:00pm**
+    **Friday 8:00am-7:00pm***
 
-    **Saturday 8:00am-3:00pm**
+    **Saturday 8:00am-7:00pm***
 
     **Sunday 8:00am-3:00pm**
 
     **(Weather permitting)**
+
+    **\*﻿Through December 31st 2023**
 catering:
   heading: Catering
   text: >-
@@ -517,10 +507,10 @@ catering:
     * Assorted Dessert Platter
 
 
-    ![]()
+    ![](/img/uploads/46495970_2379672018741774_8042392339831848960_n.jpg "Mixed Cannoli Platter")
 
 
-    ![]()
+    ![](/img/uploads/20171118_145525.jpg "Caprese Skewers")
 
 
     We cater parties, weddings, banquets and more! Plan your event now!
