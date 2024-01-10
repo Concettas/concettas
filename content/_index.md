@@ -6,11 +6,11 @@ about:
     line2: Mount Airy, MD 21771
   heading: "About Us "
   hours:
-    fri: 8am - 7pm
+    fri: 8am - 3pm
     mon: CLOSED
-    sat: 8am - 7pm
+    sat: 8am - 3pm
     sun: 8am - 3pm
-    thu: 8am - 7pm
+    thu: 8am - 3pm
     tue: 8am - 3pm
     wed: 8am - 3pm
   phone: 301-829-7571
@@ -36,13 +36,13 @@ about:
     **Wednesday 8:00am-3.00pm**
 
 
-    **Thursday 8:00am-7:00pm**
+    **Thursday 8:00am-3:00pm**
 
 
-    **Friday 8:00am-7:00pm**
+    **Friday 8:00am-3:00pm**
 
 
-    **Saturday 8:00am-7:00pm**
+    **Saturday 8:00am-3:00pm**
 
 
     **Sunday 8:00am-3:00pm**
@@ -55,31 +55,28 @@ about:
 specials:
   heading: Fall Specials
   text: >-
-    ***Tuesdays:***   **ANY REUBEN**      
+    ***Tuesdays:***   **ANY REUBEN**   
 
 
-    ***W﻿ednesdays:***  **Chicken, Egg or Tuna salad wraps**
+    ***W﻿ednesdays:*  Chicken salad choice of bread.**
 
 
-    ***Thursdays:***   **Concetta's Club Day!**
+    ***W﻿ednesdaysWednesdays: Wednesdays:***  
 
 
-    ***Fridays:  Meatball sub!***
+    ***Thursdays:***   **Grilled chicken sandwich or wrap**
 
 
-    ***P﻿LUS:  DAILY:***
+    ***F﻿ridays:*  NEW PANINI!  proscuitto/mozzarella OR Caprese OR Turkey/Cheddar**
+
+
+    **P﻿LUS:  DAILY:**
 
 
     ***S﻿OUP AND SANDWICH COMBO!***
 
 
     \-G﻿rilled cheese OR 1/2 Chicken salad sandwich OR 1/2 Caprese grilled cheese **PLUS** a cup of soup  $8.99  Specialty soups add $1
-
-
-    **L﻿IMITED TIME ONLY:**
-
-
-    C﻿oncetta's Cuban Sandwich $9.99
 cuisine:
   heading: Menu. Very diverse; we offer many choices
   text: >-
@@ -323,17 +320,15 @@ events:
 
     **Wednesday 8:00am-3:00pm**
 
-    **Thursday 8:00am-7:00pm***
+    **Thursday 8:00am-3:00pm**
 
-    **Friday 8:00am-7:00pm***
+    **Friday 8:00am-3:00pm**
 
-    **Saturday 8:00am-7:00pm***
+    **Saturday 8:00am-3:00pm**
 
     **Sunday 8:00am-3:00pm**
 
     **(Weather permitting)**
-
-    **\*﻿Through December 31st 2023**
 catering:
   heading: Catering
   text: >-
