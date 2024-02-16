@@ -300,6 +300,35 @@ cuisine:
 
 
     SERVED ON CHOICE OF OUR SIGNATURE THICK SLICED BREAD OR CROISSANT WITH LETTUCE AND TOMATO
+
+
+
+
+    ***K﻿IDS MENU***
+
+
+    **B﻿agel** with cream cheese/Bagel with butter
+
+
+    **"﻿Bear" pancake** plain    with choc. chips or blueberries (addt'l cost)   
+
+
+    **C﻿hallah French** toast plain    with sausage or bacon     (addt'l cost)
+
+
+    **S﻿crambled egg** with one piece of toast      w/ sausage or bacon (addt'l cost)
+
+
+    **P﻿IZZA BAGEL** PLAIN  or  PEPPERONI
+
+
+    **C﻿LASSIC PBJ** ON WHITE BREAD
+
+
+    **C﻿LASSIC GRILLED CHEESE** ON WHITE (AMERICAN)
+
+
+    **K﻿IDS QUESADILLA** (CHEDDAR)           add BACON OR CHICKEN (addt'l cost)
 events:
   heading: Events
   text: |-
