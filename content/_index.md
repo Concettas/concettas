@@ -52,30 +52,22 @@ about:
 
     ![]()
 specials:
-  heading: Fall Specials
+  heading: "New Things:"
   text: >-
-    ***Tuesdays:***   **ANY REUBEN**   
+    ***"L﻿oaded" Home Fries:  Our hand cut potatoes grilled with onion, bacon
+    and smothered with cheddar cheese!     SIDE ORDER:   $7.***
 
 
-    ***W﻿ednesdays:*  Chicken salad choice of bread.**
+    ***O﻿R ADD to your included home fries on your platter or omelet   $2.***
 
 
-    ***W﻿ednesdaysWednesdays: Wednesdays:***  
+    ***L﻿IVERWURST IS BACK!   served on rye with red onion and deli mustard  $7.99***
 
 
-    ***Thursdays:***   **Grilled chicken sandwich or wrap**
+    ***A﻿LERT        ALERT       ALERT!!!  OUR bagel selection will be expanding soon!***
 
 
-    ***F﻿ridays:*  NEW PANINI!  proscuitto/mozzarella OR Caprese OR Turkey/Cheddar**
-
-
-    **P﻿LUS:  DAILY:**
-
-
-    ***S﻿OUP AND SANDWICH COMBO!***
-
-
-    \-G﻿rilled cheese OR 1/2 Chicken salad sandwich OR 1/2 Caprese grilled cheese **PLUS** a cup of soup  $8.99  Specialty soups add $1
+    ***W﻿e will also be offering vegetable and lox cream cheese spreads, housemade!***
 cuisine:
   heading: Menu. Very diverse; we offer many choices
   text: >-
