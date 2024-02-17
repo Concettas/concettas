@@ -525,7 +525,7 @@ catering:
     ![](/img/uploads/46495970_2379672018741774_8042392339831848960_n.jpg "Mixed Cannoli Platter")
 
 
-    ![]( "Caprese Skewers")
+    ![]()
 
 
     We cater parties, weddings, banquets and more! Plan your event now!
