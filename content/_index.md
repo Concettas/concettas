@@ -330,7 +330,7 @@ cuisine:
 
     **K﻿IDS QUESADILLA** (CHEDDAR)           add BACON OR CHICKEN (addt'l cost)
 events:
-  heading: Events
+  heading: NEW HOURS COMING SOON!
   text: |-
     **OUR HOURS!**
 
