@@ -54,8 +54,13 @@ about:
 specials:
   heading: "New Things:"
   text: >-
-    ***"L﻿oaded" Home Fries:  Our hand cut potatoes grilled with onion, bacon
-    and smothered with cheddar cheese!     SIDE ORDER:   $7.***
+    ***C﻿oncetta's Chicken Mozzarella :  Thinly sliced chicken breast coated
+    with breadcrumbs, lightly fried, topped with our own sauce and melted
+    mozzarella served on a grilled sub roll with melted
+    provolone!      $13.99***
+
+
+    ***"L﻿oaded" Home Fries:  Our hand cut potatoes grilled with onion, bacon and smothered with cheddar cheese!     SIDE ORDER:   $7.***
 
 
     ***O﻿R ADD to your included home fries on your platter or omelet   $2.***
