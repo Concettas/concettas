@@ -6,16 +6,16 @@ about:
     line2: Mount Airy, MD 21771
   heading: "About Us "
   hours:
-    fri: 8am - 3pm
+    fri: 8am - 6pm
     mon: CLOSED
-    sat: 8am - 3pm
+    sat: 8am - 6pm
     sun: 8am - 3pm
-    thu: 8am - 3pm
-    tue: 8am - 3pm
-    wed: 8am - 3pm
+    thu: 8am - 6pm
+    tue: 10am - 3pm
+    wed: 10am - 3pm
   phone: 301-829-7571
   text: >-
-    **WE ARE OPEN!!!!**
+    **N﻿EW HOURS IN EFFECT STARTING MARCH 5!**
 
 
     Welcome to ***Concetta's Main Street Bistro!***  Proudly serving Mt. Airy since **2008**, we are located in historic downtown in the old firehouse.  We feature a complete all day breakfast menu.  Concetta's is famous for our amazing one of kind sandwiches, subs, wraps, salads, and homemade soups. We offer our unique menu with complete dine in, take out and curbside service.  Come on down to Concetta's !  We look forward to serving you!
@@ -24,24 +24,22 @@ about:
     Our patio is seasonal and can be used weather permitting! 
 
 
-
-
     **Monday CLOSED**
 
 
-    **Tuesday 8:00am-3:00pm**
+    **Tuesday 10:00am-3:00pm**
 
 
-    **Wednesday 8:00am-3.00pm**
+    **Wednesday 10:00am-3.00pm**
 
 
-    **Thursday 8:00am-3:00pm**
+    **Thursday 8:00am-6:00pm**
 
 
-    **Friday 8:00am-3:00pm**
+    **Friday 8:00am-6:00pm**
 
 
-    **Saturday 8:00am-3:00pm**
+    **Saturday 8:00am-6:00pm**
 
 
     **Sunday 8:00am-3:00pm**
@@ -54,10 +52,9 @@ about:
 specials:
   heading: "New Things:"
   text: >-
-    ***C﻿oncetta's Chicken Mozzarella :  Thinly sliced chicken breast coated
-    with breadcrumbs, lightly fried, topped with our own sauce and melted
-    mozzarella served on a grilled sub roll with melted
-    provolone!      $13.99***
+    ***C﻿oncetta's Chicken Parm :  Thinly sliced chicken breast coated with
+    breadcrumbs, lightly fried, topped with our own sauce and melted mozzarella
+    served on a grilled sub roll with melted provolone!      $13.99***
 
 
     ***"L﻿oaded" Home Fries:  Our hand cut potatoes grilled with onion, bacon and smothered with cheddar cheese!     SIDE ORDER:   $7.***
@@ -69,10 +66,10 @@ specials:
     ***L﻿IVERWURST IS BACK!   served on rye with red onion and deli mustard  $7.99***
 
 
-    ***A﻿LERT        ALERT       ALERT!!!  OUR bagel selection will be expanding soon!***
+    ***N﻿EW BAGELS:  asiago, cinnamon raisin, blueberry.***
 
 
-    ***W﻿e will also be offering vegetable and lox cream cheese spreads, housemade!***
+    ***We have Veggie Cream Cheese and Lox Cream Cheese, made on premises***
 cuisine:
   heading: Menu. Very diverse; we offer many choices
   text: >-
@@ -199,7 +196,7 @@ cuisine:
     1 EGG ANY STYLE                                       
 
 
-    ***BREAD AND ROLL CHOICES***: FARM WHITE, 7 GRAIN HONEY WHEAT, MARBLE JEWISH RYE, CHALLAH (EGG BREAD,) ITALIAN (SLICED CIABATTA), CIABATTA ROLL, ONION POPPY ROLL, WRAP, FLAKY CROISSANT,HOME BAKED BISCUITS, PLAIN BAGEL OR EVERYTHING BAGEL                                 
+    ***BREAD AND ROLL CHOICES***: FARM WHITE, 7 GRAIN HONEY WHEAT, MARBLE JEWISH RYE, CHALLAH (EGG BREAD,) ITALIAN (SLICED CIABATTA), CIABATTA ROLL, ONION POPPY ROLL, WRAP, FLAKY CROISSANT,HOME BAKED BISCUITS(WHEN AVAILABLE), BAGELS. (INQUIRE FOR AVAILABLE OPTIONS)
 
 
     **\*CHEESE CHOICES**:* AMERICAN, CHEDDAR, PROVOLONE, SWISS, PEPPER JACK, SHREDDED MOZZARELLA, FETA             
@@ -307,8 +304,6 @@ cuisine:
     SERVED ON CHOICE OF OUR SIGNATURE THICK SLICED BREAD OR CROISSANT WITH LETTUCE AND TOMATO
 
 
-
-
     ***K﻿IDS MENU***
 
 
@@ -341,15 +336,15 @@ events:
 
     **Monday Closed**
 
-    **Tuesday 8:00am-3:00pm**
+    **Tuesday 10:00am-3:00pm**
 
-    **Wednesday 8:00am-3:00pm**
+    **Wednesday 10:00am-3:00pm**
 
-    **Thursday 8:00am-3:00pm**
+    **Thursday 8:00am-6:00pm**
 
-    **Friday 8:00am-3:00pm**
+    **Friday 8:00am-6:00pm**
 
-    **Saturday 8:00am-3:00pm**
+    **Saturday 8:00am-6:00pm**
 
     **Sunday 8:00am-3:00pm**
 
