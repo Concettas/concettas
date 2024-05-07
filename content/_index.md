@@ -6,13 +6,13 @@ about:
     line2: Mount Airy, MD 21771
   heading: "About Us "
   hours:
-    fri: 8am - 6pm
+    fri: 8am - 5pm
     mon: CLOSED
-    sat: 8am - 6pm
+    sat: 8am - 5pm
     sun: 8am - 3pm
-    thu: 8am - 6pm
-    tue: 10am - 3pm
-    wed: 10am - 3pm
+    thu: 8am - 5pm
+    tue: 8am - 3pm
+    wed: 8am - 3pm
   phone: 301-829-7571
   text: >-
     **N﻿EW HOURS IN EFFECT STARTING MARCH 5!**
@@ -27,19 +27,19 @@ about:
     **Monday CLOSED**
 
 
-    **Tuesday 10:00am-3:00pm**
+    **Tuesday 8:00am-3:00pm**
 
 
-    **Wednesday 10:00am-3.00pm**
+    **Wednesday 8:00am-3.00p**
 
 
-    **Thursday 8:00am-6:00pm**
+    **Thursday 8:00am-5:00pm**
 
 
-    **Friday 8:00am-6:00pm**
+    **Friday 8:00am-5:00pm**
 
 
-    **Saturday 8:00am-6:00pm**
+    **Saturday 8:00am-5:00pm**
 
 
     **Sunday 8:00am-3:00pm**
@@ -336,15 +336,15 @@ events:
 
     **Monday Closed**
 
-    **Tuesday 10:00am-3:00pm**
+    **Tuesday 8:00am-3:00pm**
 
-    **Wednesday 10:00am-3:00pm**
+    **Wednesday 8:00am-3:00pm**
 
-    **Thursday 8:00am-6:00pm**
+    **Thursday 8:00am-5:00pm**
 
-    **Friday 8:00am-6:00pm**
+    **Friday 8:00am-5:00pm**
 
-    **Saturday 8:00am-6:00pm**
+    **Saturday 8:00am-5:00pm**
 
     **Sunday 8:00am-3:00pm**
 
