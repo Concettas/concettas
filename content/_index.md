@@ -63,13 +63,11 @@ specials:
     ***O﻿R ADD to your included home fries on your platter or omelet   $2.***
 
 
-    ***L﻿IVERWURST IS BACK!   served on rye with red onion and deli mustard  $7.99***
+    ***E﻿GGPLANT PARMESAN :  USING KNILLS EGGPLANT, AND OUR FRESH MARINARA!***
 
 
-    ***N﻿EW BAGELS:  asiago, cinnamon raisin, blueberry.***
 
-
-    ***We have Veggie Cream Cheese and Lox Cream Cheese, made on premises***
+     ***BAGELS:  asiago, cinnamon raisin, blueberry, plain and everything***
 cuisine:
   heading: Menu. Very diverse; we offer many choices
   text: >-
@@ -350,7 +348,7 @@ events:
 
     **(Weather permitting)**
 catering:
-  heading: Catering
+  heading: CONCETTA'S CUSTOM CATERING  WE CATER FOR YOU, AND ALL YOUR EVENTS!
   text: >-
     **For pricing please call the store. 301-829-7571**
 
