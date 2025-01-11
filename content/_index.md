@@ -6,16 +6,16 @@ about:
     line2: Mount Airy, MD 21771
   heading: "About Us "
   hours:
-    fri: 8am - 4pm
+    fri: 9am - 3pm
     mon: CLOSED
-    sat: 8am - 4pm
+    sat: 8am - 3pm
     sun: 8am - 3pm
-    thu: 8am - 4pm
-    tue: 8am - 3pm
-    wed: 8am - 3pm
+    thu: 9am - 3pm
+    tue: 9am - 3pm
+    wed: 9am - 3pm
   phone: 301-829-7571
   text: >-
-    **N﻿EW HOURS IN EFFECT STARTING August 22**
+    **N﻿EW HOURS IN EFFECT STARTING January 7th, 2025**
 
 
     Welcome to ***Concetta's Main Street Bistro!***  Proudly serving Mt. Airy since **2008**, we are located in historic downtown in the old firehouse.  We feature a complete all day breakfast menu.  Concetta's is famous for our amazing one of kind sandwiches, subs, wraps, salads, and homemade soups. We offer our unique menu with complete dine in, take out and curbside service.  Come on down to Concetta's !  We look forward to serving you!
@@ -27,16 +27,16 @@ about:
     **Monday CLOSED**
 
 
-    **Tuesday 8:00am-3:00pm**
+    **Tuesday 9:00am-3:00pm**
 
 
-    **Wednesday 8:00am-3.00p**
+    **Wednesday 9:00am-3.00pm**
 
 
-    **Thursday 8:00am-4:00pm**
+    **Thursday 9:00am-3:00pm**
 
 
-    **Friday 8:00am-4:00pm**
+    **Friday 9:00am-3:00pm**
 
 
     **Saturday 8:00am-4:00pm**
@@ -48,30 +48,28 @@ about:
     **(Weather permitting)**
 
 
-    ![]()
+    ![Our famous challah French toast sandwich](/img/uploads/img_20210708_172015_753.jpg)
 specials:
-  heading: "New Things:"
+  heading: Daily Specials are Back!
   text: >-
-    ***C﻿oncetta's Chicken Parm :  Thinly sliced chicken breast coated with
-    breadcrumbs, lightly fried, topped with our own sauce and melted mozzarella
-    served on a grilled sub roll with melted provolone!      $13.99***
+    ***T﻿uesdays:  Reuben / Rachel Tuesday is BACK!  Save $2 on the best Reuben
+    around!  Served with chips         ONLY $11.99!***
 
 
-    ***"L﻿oaded" Home Fries:  Our hand cut potatoes grilled with onion, bacon and smothered with cheddar cheese!     SIDE ORDER:   $7.***
+    ***W﻿ednesdays: Concetta's Italian Cold Cut Sub, 6" served with chips.  ONLY $5.99!***
 
 
-    ***O﻿R ADD to your included home fries on your platter or omelet   $2.***
+    ***T﻿hursdays:  Turkey Club sandwich on toast.  Bacon, provolone, lettuce, tomato and mayo.  Served with chips   SAVE $2  ONLY $10.99!***
 
 
-    ***E﻿GGPLANT PARMESAN :  USING KNILLS EGGPLANT, AND OUR FRESH MARINARA!***
+    ***F﻿ridays: Concetta's 12" Meatball Sub, home made Concetta's meatballs (6) on a toasted sub roll marinara, provolone and shaker cheese.  ONLY $12.99!!  $2 OFF!***
 
 
-
-     ***BAGELS:  asiago, cinnamon raisin, blueberry, plain and everything***
+    ***N﻿O SUBSTITUTIONS ON DAILY SPECIALS, THANK YOU!***
 cuisine:
   heading: Menu. Very diverse; we offer many choices
   text: >-
-    ![]()
+    ![LOX PLATTER](/img/uploads/20210226_192520.jpg)
 
 
     ***ALL DAY BREAKFAST***
@@ -328,21 +326,21 @@ cuisine:
 
     **K﻿IDS QUESADILLA** (CHEDDAR)           add BACON OR CHICKEN (addt'l cost)
 events:
-  heading: NEW HOURS COMING SOON!
+  heading: WINTER HOURS
   text: |-
     **OUR HOURS!**
 
     **Monday Closed**
 
-    **Tuesday 8:00am-3:00pm**
+    **Tuesday 9:00am-3:00pm**
 
-    **Wednesday 8:00am-3:00pm**
+    **Wednesday 9:00am-3:00pm**
 
-    **Thursday 8:00am-5:00pm**
+    **Thursday 9:00am-3:00pm**
 
-    **Friday 8:00am-5:00pm**
+    **Friday 9:00am-3:00pm**
 
-    **Saturday 8:00am-5:00pm**
+    **Saturday 8:00am-3:00pm**
 
     **Sunday 8:00am-3:00pm**
 
@@ -523,7 +521,7 @@ catering:
     ![](/img/uploads/46495970_2379672018741774_8042392339831848960_n.jpg "Mixed Cannoli Platter")
 
 
-    ![]()
+    ![](/img/uploads/img_3449.jpg "COFFEE DRINKS!")
 
 
     We cater parties, weddings, banquets and more! Plan your event now!
@@ -538,7 +536,15 @@ catering:
     For pricing, please call the store.
 photos:
   heading: Photo Gallery
-  photo: []
+  photo:
+    - photo: /img/uploads/20171118_145525.jpg
+      caption: CAPRESE SKEWERS, CATERING
+    - photo: /img/uploads/20220205_122735.jpg
+      caption: FAMOUS REAL ITALIAN COLD CUT SUB!
+    - photo: /img/uploads/20210226_105549.jpg
+      caption: CHEESESTEAK, MADE WITH TOP ROUND!
+    - photo: /img/uploads/img_20210307_164607_360.jpg
+      caption: REUBENS ON THE GRILL!
 contact:
   email: concettasmainstreetbistro@gmail.com
   heading: How Are We Doing?
