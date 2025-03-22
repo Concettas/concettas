@@ -27,19 +27,19 @@ about:
     **Monday CLOSED**
 
 
-    **Tuesday 9:00am-3:00pm**
+    **Tuesday 8:00am-3:00pm**
 
 
-    **Wednesday 9:00am-3.00pm**
+    **Wednesday 8:00am-3.00pm**
 
 
-    **Thursday 9:00am-3:00pm**
+    **Thursday 8:00am-3:00pm**
 
 
-    **Friday 9:00am-3:00pm**
+    **Friday 8:00am-3:00pm**
 
 
-    **Saturday 8:00am-4:00pm**
+    **Saturday 8:00am-3:00pm**
 
 
     **Sunday 8:00am-3:00pm**
@@ -326,19 +326,19 @@ cuisine:
 
     **K﻿IDS QUESADILLA** (CHEDDAR)           add BACON OR CHICKEN (addt'l cost)
 events:
-  heading: WINTER HOURS
+  heading: SPRING HOURS!
   text: |-
     **OUR HOURS!**
 
     **Monday Closed**
 
-    **Tuesday 9:00am-3:00pm**
+    **Tuesday 8:00am-3:00pm**
 
-    **Wednesday 9:00am-3:00pm**
+    **Wednesday 8:00am-3:00pm**
 
-    **Thursday 9:00am-3:00pm**
+    **Thursday 8:00am-3:00pm**
 
-    **Friday 9:00am-3:00pm**
+    **Friday 8:00am-3:00pm**
 
     **Saturday 8:00am-3:00pm**
 
