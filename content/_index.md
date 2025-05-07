@@ -21,6 +21,9 @@ about:
     Welcome to ***Concetta's Main Street Bistro!***  Proudly serving Mt. Airy since **2008**, we are located in historic downtown in the old firehouse.  We feature a complete all day breakfast menu.  Concetta's is famous for our amazing one of kind sandwiches, subs, wraps, salads, and homemade soups. We offer our unique menu with complete dine in, take out and curbside service.  Come on down to Concetta's !  We look forward to serving you!
 
 
+    Order online @ [https://www.clover.com/online-ordering/concettas-mainst-bistro-mount-airy](https://www.clover.com/online-ordering/concettas-mainst-bistro-mount-airy?fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExU1o0UzZUMHFuTXNmOXFsVAEeZa2H6E6SpSm8inO848jfZBMthSdNeE6DqgOv6qVGglgK9Y9M9aQ2opIa4M4_aem_kQlmbFsNm_byj56MkHbvDQ)
+
+
     Our patio is seasonal and can be used weather permitting! 
 
 
@@ -48,7 +51,7 @@ about:
     **(Weather permitting)**
 
 
-    ![Our famous challah French toast sandwich](/img/uploads/img_20210708_172015_753.jpg)
+    ![Our famous challah French toast sandwich]()
 specials:
   heading: Daily Specials are Back!
   text: >-
