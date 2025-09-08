@@ -72,7 +72,7 @@ specials:
 cuisine:
   heading: Menu. Very diverse; we offer many choices
   text: >-
-    ![LOX PLATTER](/img/uploads/20210226_192520.jpg)
+    ![LOX PLATTER]()
 
 
     ***ALL DAY BREAKFAST***
