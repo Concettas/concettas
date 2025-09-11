@@ -19,7 +19,7 @@ about:
     effect***
 
 
-    Welcome to ***Concetta's Main Street Bistro!***  Proudly serving Mt. Airy for over 17 years! Located in the historic Old Firehouse Building in downtown Mt. Airy, we offer a most !unique menu featuring an amazing variety o ffoods!  Housemade meatballs and sauce, an amazing Reuben and some original creations that have stood the test of time!  We offer ALL KINDS of deli sandwiches, hot and cold.  All soups are made on premise.  We **offer *call in orders for take out***, **ONLINE ORDERING**, **outside pooch friendly patio** *(weather permitting*) and a** *limited amount of indoor bistro seating.*** 
+    Welcome to ***Concetta's Main Street Bistro!***  Proudly serving Mt. Airy for over 17 years! Located in the historic Old Firehouse Building in downtown Mt. Airy, we offer a most !unique menu featuring an amazing variety of foods!  Housemade meatballs and sauce, an amazing Reuben and some original creations that have stood the test of time!  We offer ALL KINDS of deli sandwiches, hot and cold.  All soups are made on premise.  We **offer *call in orders for take out***, **ONLINE ORDERING**, **outside pooch friendly patio** *(weather permitting*) and a** *limited amount of indoor bistro seating.*** 
 
 
     ***Come visit Concetta's TODAY***
