@@ -6,69 +6,69 @@ about:
     line2: Mount Airy, MD 21771
   heading: "About Us "
   hours:
-    fri: 9am - 3pm
+    fri: 8am - 7pm
     mon: CLOSED
-    sat: 8am - 3pm
-    sun: 8am - 3pm
-    thu: 9am - 3pm
-    tue: 9am - 3pm
-    wed: 9am - 3pm
+    sat: 8am - 6pm
+    sun: 8am - 4pm
+    thu: 8am - 7pm
+    tue: CLOSED
+    wed: 8am - 7pm
   phone: 301-829-7571
   text: >-
-    **N﻿EW HOURS IN EFFECT STARTING January 7th, 2025**
+    **N﻿EW HOURS in EFFECT STARTING  October 1, 2025  *New Menu ALSO in
+    effect***
 
 
-    Welcome to ***Concetta's Main Street Bistro!***  Proudly serving Mt. Airy since **2008**, we are located in historic downtown in the old firehouse.  We feature a complete all day breakfast menu.  Concetta's is famous for our amazing one of kind sandwiches, subs, wraps, salads, and homemade soups. We offer our unique menu with complete dine in, take out and curbside service.  Come on down to Concetta's !  We look forward to serving you!
+    Welcome to ***Concetta's Main Street Bistro!***  Proudly serving Mt. Airy for over 17 years! Located in the historic Old Firehouse Building in downtown Mt. Airy, we offer a most !unique menu featuring an amazing variety o ffoods!  Housemade meatballs and sauce, an amazing Reuben and some original creations that have stood the test of time!  We offer ALL KINDS of deli sandwiches, hot and cold.  All soups are made on premise.  We **offer *call in orders for take out***, **ONLINE ORDERING**, **outside pooch friendly patio** *(weather permitting*) and a** *limited amount of indoor bistro seating.*** 
 
 
-    Order online @ [https://www.clover.com/online-ordering/concettas-mainst-bistro-mount-airy](https://www.clover.com/online-ordering/concettas-mainst-bistro-mount-airy?fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExU1o0UzZUMHFuTXNmOXFsVAEeZa2H6E6SpSm8inO848jfZBMthSdNeE6DqgOv6qVGglgK9Y9M9aQ2opIa4M4_aem_kQlmbFsNm_byj56MkHbvDQ)
+    ***Come visit Concetta's TODAY***
 
 
-    Our patio is seasonal and can be used weather permitting! 
+    ***C﻿ALL 301-829-7571 TO PLACE A TAKE OUT ORDER!***
+
+
+    **Order online** @ [https://www.clover.com/online-ordering/concettas-mainst-bistro-mount-airy](https://www.clover.com/online-ordering/concettas-mainst-bistro-mount-airy?fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExU1o0UzZUMHFuTXNmOXFsVAEeZa2H6E6SpSm8inO848jfZBMthSdNeE6DqgOv6qVGglgK9Y9M9aQ2opIa4M4_aem_kQlmbFsNm_byj56MkHbvDQ)
+
+
+    ***Our patio is seasonal and can be used weather permitting!*** 
 
 
     **Monday CLOSED**
 
 
-    **Tuesday 8:00am-3:00pm**
+    **Tuesday CLOSED**
 
 
-    **Wednesday 8:00am-3.00pm**
+    **Wednesday 8:00am-7.00pm**
 
 
-    **Thursday 8:00am-3:00pm**
+    **Thursday 8:00am-7:00pm**
 
 
-    **Friday 8:00am-3:00pm**
+    **Friday 8:00am-7:00pm**
 
 
-    **Saturday 8:00am-3:00pm**
+    **Saturday 8:00am-6:00pm**
 
 
-    **Sunday 8:00am-3:00pm**
+    **Sunday 8:00am-4:00pm**
 
 
     **(Weather permitting)**
 
 
-    ![Our famous challah French toast sandwich]()
+    ![]()
 specials:
-  heading: Daily Specials are Back!
+  heading: MENU
   text: >-
-    ***T﻿uesdays:  Reuben / Rachel Tuesday is BACK!  Save $2 on the best Reuben
-    around!  Served with chips         ONLY $11.99!***
+    ***O﻿UR MENU IS AS FRESH AS POSSIBLE.  WE PROCURE THE BEST LOCAL INGREDIENTS
+    POSSIBLE.  WE ARE A SMALL INDEPENDENTLY RUN BISTRO!***
 
 
-    ***W﻿ednesdays: Concetta's Italian Cold Cut Sub, 6" served with chips.  ONLY $5.99!***
 
 
-    ***T﻿hursdays:  Turkey Club sandwich on toast.  Bacon, provolone, lettuce, tomato and mayo.  Served with chips   SAVE $2  ONLY $10.99!***
-
-
-    ***F﻿ridays: Concetta's 12" Meatball Sub, home made Concetta's meatballs (6) on a toasted sub roll marinara, provolone and shaker cheese.  ONLY $12.99!!  $2 OFF!***
-
-
-    ***N﻿O SUBSTITUTIONS ON DAILY SPECIALS, THANK YOU!***
+    ***W﻿E ALWAYS TRY OUR BEST TO SERVE YOU!***
 cuisine:
   heading: Menu. Very diverse; we offer many choices
   text: >-
