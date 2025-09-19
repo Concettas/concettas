@@ -297,31 +297,26 @@ cuisine:
     SERVED ON CHOICE OF OUR SIGNATURE THICK SLICED BREAD OR CROISSANT WITH LETTUCE AND TOMATO
 
 
-    ***K﻿IDS MENU***
+    ***L﻿IGHTER FARE- Breakfast***
 
 
-    **B﻿agel** with cream cheese/Bagel with butter
+    **B﻿agel with cream cheese or butter**
 
 
-    **"﻿Bear" pancake** plain    with choc. chips or blueberries (addt'l cost)   
+    **E﻿nglish muffin or toast with butt**
 
 
-    **C﻿hallah French** toast plain    with sausage or bacon     (addt'l cost)
+    **1 Pancake Or 1 piece of French Toast**, add an egg for extra cost.  Add blueberries or chocolate chips, extra cost
 
 
-    **S﻿crambled egg** with one piece of toast      w/ sausage or bacon (addt'l cost)
+    **E﻿gg & cheeese *OR* Bacon, egg & cheese *OR* Ham, egg & cheese on toast**
 
 
-    **P﻿IZZA BAGEL** PLAIN  or  PEPPERONI
 
 
-    **C﻿LASSIC PBJ** ON WHITE BREAD
 
 
-    **C﻿LASSIC GRILLED CHEESE** ON WHITE (AMERICAN)
-
-
-    **K﻿IDS QUESADILLA** (CHEDDAR)           add BACON OR CHICKEN (addt'l cost)
+    ***L﻿IGHTER FARE-Lunch***
 events:
   heading: SPRING HOURS!
   text: |-
