@@ -9,7 +9,7 @@ about:
     fri: 9am - 6pm
     mon: CLOSED
     sat: 8am - 6pm
-    sun: 8am - 4pm
+    sun: 8am - 3pm
     thu: 9am - 6pm
     tue: 9am - 6pm
     wed: 9am - 6pm
@@ -72,7 +72,7 @@ specials:
 cuisine:
   heading: Menu. Very diverse; we offer many choices
   text: >-
-    ![LOX PLATTER]()
+    ![]()
 
 
     ***ALL DAY BREAKFAST***
@@ -96,7 +96,7 @@ cuisine:
     **FRENCH TOAST**-MADE FROM CHALLAH BREAD, CINNAMON AND VANILLA MIXTURE     
 
 
-    ***OUR FAMOUS* HOUSE-MADE CREAMED CHIP BEEF**-SERVED OVER CHOICE OF THICK SLICED TOAST, BISCUITS, ENGLISH MUFFIN, OR PANCAKE                                                   
+    ***OUR FAMOUS* HOUSE-MADE CREAMED CHIP BEEF**-SERVED OVER CHOICE OF THICK SLICED TOAST, BISCUITS, ENGLISH MUFFIN, OR PANCAKE  D                                                 
 
 
     **CORNED BEEF HASH**, CHOPPED CORNED BEEF, ONION AND POTATOES GRILLED CRISP WITH EGGS ANY STYLE, CHOICE OF THICK CUT TOAST         
@@ -273,7 +273,7 @@ cuisine:
     **MUFFULATA SUB**-OUR GENUINE ITALIAN COLD CUTS WITH OUR OWN ROASTED PEPPER, GREEN OLIVE, BASIL AND GARLIC SPREAD, LETTUCE, TOMATO AND ONIONS, TOPPED WITH OUR HOUSE DRESSING                **HALF  OR   WHOLE** 
 
 
-    **CONCETTA’S CLUB**-TURKEY, ROAST BEEF ***OR*** HAM TRIPLE DECKER WITH BACON, LETTUCE, TOMATO & PROVOLONE ON CHOICE OF TOAST                                              
+    **CONCETTA’S CLUB**-TURKEY ***OR*** HAM TRIPLE DECKER WITH BACON, LETTUCE, TOMATO & PROVOLONE ON CHOICE OF TOAST        Roast Beef EXTRA COST
 
 
     **PLT**- CRISP PANCETTA (ITALIAN BACON), LETTUCE, TOMATO AND MAYO SERVED ON TOASTED ITALIAN BREAD           
@@ -303,36 +303,52 @@ cuisine:
     **B﻿agel with cream cheese or butter**
 
 
-    **E﻿nglish muffin or toast with butt**
+    **E﻿nglish muffin or toast with butter**
 
 
-    **1 Pancake Or 1 piece of French Toast**, add an egg for extra cost.  Add blueberries or chocolate chips, extra cost
+    **1 Pancake Or 1 piece of French Toast**, *add an egg for extra cost.  Add blueberries or chocolate chips, extra cost*
 
 
-    **E﻿gg & cheeese *OR* Bacon, egg & cheese *OR* Ham, egg & cheese on toast**
+    **E﻿gg & cheeese *OR* Bacon, *OR* Ham, & cheese on toast (NO EGG)**
 
 
+    **A﻿vocado toast with everything bagel seasoning**     *ADD eggs extra cost*
+
+
+    ***L﻿IGHTER FARE-Lunch***
+
+
+    **C﻿heese Quesadilla, choice of cheese. **  *add bacon or chicken at extra cost*
+
+
+    **A﻿LL BEEF LARGE HOT****DOG*, GRILLED*** * add kraut, add chili, add cheese, extra cost*
+
+
+    **G﻿RILLED CHEESE, choice of cheese(s)**  *  add bacon or ham at extra cost*
+
+
+    **P﻿izza Bagel, sauce, mozzarella**  *  add pepperoni at extra cost*
 
 
 
 
     ***L﻿IGHTER FARE-Lunch***
 events:
-  heading: SPRING HOURS!
+  heading: FALL HOURS STARTING OCTOBER 1
   text: |-
     **OUR HOURS!**
 
     **Monday Closed**
 
-    **Tuesday 8:00am-3:00pm**
+    **Tuesday 9:00am-6:00pm**
 
-    **Wednesday 8:00am-3:00pm**
+    **Wednesday 9:00am-6:00pm**
 
-    **Thursday 8:00am-3:00pm**
+    **Thursday 9:00am-6:00p**
 
-    **Friday 8:00am-3:00pm**
+    **Friday 9:00am-6:00pm**
 
-    **Saturday 8:00am-3:00pm**
+    **Saturday 8:00am-6:00pm**
 
     **Sunday 8:00am-3:00pm**
 
@@ -533,10 +549,6 @@ photos:
       caption: CAPRESE SKEWERS, CATERING
     - photo: /img/uploads/20220205_122735.jpg
       caption: FAMOUS REAL ITALIAN COLD CUT SUB!
-    - photo: /img/uploads/20210226_105549.jpg
-      caption: CHEESESTEAK, MADE WITH TOP ROUND!
-    - photo: /img/uploads/img_20210307_164607_360.jpg
-      caption: REUBENS ON THE GRILL!
 contact:
   email: concettasmainstreetbistro@gmail.com
   heading: How Are We Doing?
