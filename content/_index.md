@@ -340,13 +340,13 @@ events:
 
     **Monday Closed**
 
-    **Tuesday 9:00am-6:00pm**
+    **Tuesday 8:00am-3:00pm**
 
-    **Wednesday 9:00am-6:00pm**
+    **Wednesday 8:00am-3:00pm**
 
-    **Thursday 9:00am-6:00p**
+    **Thursday 8:00am-6:00p**
 
-    **Friday 9:00am-6:00pm**
+    **Friday 8:00am-6:00pm**
 
     **Saturday 8:00am-6:00pm**
 
@@ -470,6 +470,9 @@ catering:
 
 
     *(any platter can be customized with other meats & cheeses for an additional cost)*
+
+
+    *W﻿e make Charcuterie boards, using the same fine ingredients as below*
 
 
     *(Large platters feed approx. 10-15, Small platters feed approx. 8-12)*
