@@ -548,10 +548,10 @@ catering:
 photos:
   heading: Photo Gallery
   photo:
-    - photo: /img/uploads/20171118_145525.jpg
-      caption: CAPRESE SKEWERS, CATERING
     - photo: /img/uploads/20220205_122735.jpg
       caption: FAMOUS REAL ITALIAN COLD CUT SUB!
+    - photo: /img/uploads/20171118_145525.jpg
+      caption: CAPRESE SKEWERS, CATERING
 contact:
   email: concettasmainstreetbistro@gmail.com
   heading: How Are We Doing?
