@@ -8,9 +8,9 @@ about:
   hours:
     fri: 8am - 6pm
     mon: CLOSED
-    sat: 8am - 6pm
+    sat: 8am - 3pm
     sun: 8am - 3pm
-    thu: 8am - 6pm
+    thu: 8am - 3pm
     tue: 8am - 3pm
     wed: 8am - 3pm
   phone: 301-829-7571
@@ -46,7 +46,7 @@ about:
     **Thursday 8:00am-6:00pm**
 
 
-    **Friday :00am-6:00pm**
+    **Friday 8:00am-6:00pm**
 
 
     **Saturday 8:00am-6:00pm**
