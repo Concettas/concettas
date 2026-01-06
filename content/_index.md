@@ -6,7 +6,7 @@ about:
     line2: Mount Airy, MD 21771
   heading: "About Us "
   hours:
-    fri: 8am - 6pm
+    fri: 8am - 3pm
     mon: CLOSED
     sat: 8am - 3pm
     sun: 8am - 3pm
@@ -15,8 +15,7 @@ about:
     wed: 8am - 3pm
   phone: 301-829-7571
   text: >-
-    **N﻿EW HOURS in EFFECT STARTING  October 1, 2025  *New Menu ALSO in
-    effect***
+    **N﻿EW HOURS in EFFECT STARTING  January 2026** 
 
 
     Welcome to ***Concetta's Main Street Bistro!***  Proudly serving Mt. Airy for over 17 years! Located in the historic Old Firehouse Building in downtown Mt. Airy, we offer a most !unique menu featuring an amazing variety of foods!  Housemade meatballs and sauce, an amazing Reuben and some original creations that have stood the test of time!  We offer ALL KINDS of deli sandwiches, hot and cold.  All soups are made on premise.  We **offer *call in orders for take out***, **ONLINE ORDERING**, **outside pooch friendly patio** *(weather permitting*) and a** *limited amount of indoor bistro seating.*** 
@@ -43,13 +42,13 @@ about:
     **Wednesday 8:00am-3:00pm**
 
 
-    **Thursday 8:00am-6:00pm**
+    **Thursday 8:00am-3:00pm**
 
 
-    **Friday 8:00am-6:00pm**
+    **Friday 8:00am-3:00pm**
 
 
-    **Saturday 8:00am-6:00pm**
+    **Saturday 8:00am-3:00pm**
 
 
     **Sunday 8:00am-3:00pm**
@@ -84,7 +83,7 @@ cuisine:
     **LOX PLATTER**-BAGEL, NOVA LOX, CREAM CHEESE, TOMATO, ONION, CAPERS                                                                   
 
 
-    **CLASSIC PLATTER**-2 EGGS ANY WAY, BACON, HAM, OR WAGNER'S SAGE SAUSAGE PATTIES, HOME FRIES, CHOICE OF TOAST  (2PC)               
+    **CLASSIC PLATTER**-2 EGGS ANY WAY, BACON, HAM, **Sausage Links** OR WAGNER'S SAGE SAUSAGE PATTIES, HOME FRIES, CHOICE OF TOAST  (2PC)              
 
 
     **PANCAKES (2**)- 
@@ -177,7 +176,10 @@ cuisine:
     SIDE OF BACON (4 SLICES)                        
 
 
-    SIDE OF SAUSAGE (2 PATTIES)                  
+    SIDE OF SAUSAGE (2 PATTIES)   
+
+
+    SIDE OF SAUSAGE LINKS (3)
 
 
     SIDE OF HOME FRIES                                 
@@ -318,18 +320,16 @@ cuisine:
     ***L﻿IGHTER FARE-Lunch***
 
 
-    **C﻿heese Quesadilla, choice of cheese. **  *add bacon or chicken at extra cost*
+    **C﻿heese Quesadilla, choice of cheese.**   *add bacon or chicken at extra cost*
 
 
-    **A﻿LL BEEF LARGE HOT****DOG*, GRILLED*** * add kraut, add chili, add cheese, extra cost*
+    **A﻿LL BEEF LARGE HOT\*\***DOG*, GRILLED*\*\**  add kraut, add chili, add cheese, extra cost*
 
 
-    **G﻿RILLED CHEESE, choice of cheese(s)**  *  add bacon or ham at extra cost*
+    **G﻿RILLED CHEESE, choice of cheese(s)**   * add bacon or ham at extra cost*
 
 
-    **P﻿izza Bagel, sauce, mozzarella**  *  add pepperoni at extra cost*
-
-
+    **P﻿izza Bagel, sauce, mozzarella**   * add pepperoni at extra cost*
 
 
     ***L﻿IGHTER FARE-Lunch***
@@ -344,11 +344,11 @@ events:
 
     **Wednesday 8:00am-3:00pm**
 
-    **Thursday 8:00am-6:00p**
+    **Thursday 8:00am-3:00p**
 
-    **Friday 8:00am-6:00pm**
+    **Friday 8:00am-3:00pm**
 
-    **Saturday 8:00am-6:00pm**
+    **Saturday 8:00am-3:00pm**
 
     **Sunday 8:00am-3:00pm**
 
@@ -547,11 +547,7 @@ catering:
     For pricing, please call the store.
 photos:
   heading: Photo Gallery
-  photo:
-    - photo: /img/uploads/20220205_122735.jpg
-      caption: FAMOUS REAL ITALIAN COLD CUT SUB!
-    - photo: /img/uploads/20171118_145525.jpg
-      caption: CAPRESE SKEWERS, CATERING
+  photo: []
 contact:
   email: concettasmainstreetbistro@gmail.com
   heading: How Are We Doing?
