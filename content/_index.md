@@ -15,6 +15,9 @@ about:
     wed: 8am - 3pm
   phone: 301-829-7571
   text: >-
+    ![]()
+
+
     **N﻿EW HOURS in EFFECT STARTING  January 2026** 
 
 
@@ -57,7 +60,7 @@ about:
     **(Weather permitting)**
 
 
-    ![]()
+    ![](/img/uploads/20210423_083829.jpg "Concetta's Original French Toast Sandwich..challah french toast, your choice of cheese and either bacon, sausage or ham.")
 specials:
   heading: MENU
   text: >-
@@ -71,7 +74,9 @@ specials:
 cuisine:
   heading: Menu. Very diverse; we offer many choices
   text: >-
-    ![]()
+    ![](/img/uploads/20231003_113244.jpg "Concetta's Cuban!!  Yum!!  Slow
+    roasted port, ham, swiss and pepper jack, OUR Cuban sauce all grilled on the
+    most amazing ciabatta bread!")
 
 
     ***ALL DAY BREAKFAST***
@@ -323,13 +328,13 @@ cuisine:
     **C﻿heese Quesadilla, choice of cheese.**   *add bacon or chicken at extra cost*
 
 
-    **A﻿LL BEEF LARGE HOT\*\***DOG*, GRILLED*\*\**  add kraut, add chili, add cheese, extra cost*
+    **A﻿LL BEEF LARGE HOT\*\***DOG*, GRILLED*\*\*  *add kraut, add chili, add cheese, extra cost*
 
 
-    **G﻿RILLED CHEESE, choice of cheese(s)**   * add bacon or ham at extra cost*
+    **G﻿RILLED CHEESE, choice of cheese(s)**    *add bacon or ham at extra cost*
 
 
-    **P﻿izza Bagel, sauce, mozzarella**   * add pepperoni at extra cost*
+    **P﻿izza Bagel, sauce, mozzarella**    *add pepperoni at extra cost*
 
 
     ***L﻿IGHTER FARE-Lunch***
@@ -547,7 +552,9 @@ catering:
     For pricing, please call the store.
 photos:
   heading: Photo Gallery
-  photo: []
+  photo:
+    - photo: /img/uploads/img_20220404_192951_526.jpg
+      caption: Our Italian Deli Platter (charcuterie, but we've been at it for years!)
 contact:
   email: concettasmainstreetbistro@gmail.com
   heading: How Are We Doing?
